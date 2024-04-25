@@ -1,6 +1,10 @@
 from pokemon import Pokemon
+from google.cloud import texttospeech
 import requests
 import re
+
+## tts - https://cloud.google.com/text-to-speech/docs/libraries
+## need to pay :(
 
 input = "charizard" #input("Enter name of pokemon: ")
 #input = "eevee"
@@ -25,3 +29,21 @@ description = re.subn('[\n\f]', ' ', description)[0]
 pokemon = Pokemon(input, pokemon_data["types"], description)
 
 print(pokemon.dex_entry())
+
+tts_client = texttospeech.TextToSpeechClient()
+synthesis_input = texttospeech.SynthesisInput(text=pokemon.dex_entry())
+voice = texttospeech.VoiceSelectionParams(
+    language_code="en-US", ssml_gender=texttospeech.SsmlVoiceGender.NEUTRAL
+)
+
+audio_config = texttospeech.AudioConfig(
+    audio_encoding=texttospeech.AudioEncoding.MP3
+)
+
+response = tts_client.synthesize_speech(
+    input=synthesis_input, voice=voice, audio_config=audio_config
+)
+
+with open("output.mp3", "wb") as out:
+    out.write(response.audio_content)
+    print("wrote audio file")
