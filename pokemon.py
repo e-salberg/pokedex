@@ -17,3 +17,7 @@ class Pokemon:
 
         entry += " type pokemon. " + self.description
         return entry
+    
+    #TODO add evolves from text
+    #   the evole form of blank
+    #TODO add entry number and category

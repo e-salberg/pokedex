@@ -1,0 +1,1080 @@
+0001	Bulbasaur	Bulbasaur   Seed Pokémon	たねポケモン	Seed Pokémon
+0002	Ivysaur	    Ivysaur	    Seed Pokémon	たねポケモン	Seed Pokémon
+0003	Venusaur	Venusaur	Seed Pokémon	たねポケモン	Seed Pokémon
+0004	Charmander	Charmander	Lizard Pokémon	とかげポケモン	Lizard Pokémon
+0005	Charmeleon	Charmeleon	Flame Pokémon	かえんポケモン	Flame Pokémon
+0006	Charizard	Charizard	Flame Pokémon	かえんポケモン	Flame Pokémon
+0007	Squirtle	Squirtle	Tiny Turtle Pokémon	かめのこポケモン	Young Turtle Pokémon
+0008	Wartortle	Wartortle	Turtle Pokémon	かめポケモン	Turtle Pokémon
+0009	Blastoise	Blastoise	Shellfish Pokémon	こうらポケモン	Shell Pokémon
+0010	Caterpie	Caterpie	Worm Pokémon	いもむしポケモン	Caterpillar Pokémon
+0011	Metapod	    Metapod	Cocoon Pokémon	さなぎポケモン	Chrysalis Pokémon
+0012	Butterfree	Butterfree	Butterfly Pokémon	ちょうちょポケモン	Butterfly Pokémon
+0013	Weedle	    Weedle	Hairy Bug Pokémon	けむしポケモン	Hairy Caterpillar Pokémon
+0014	Kakuna	    Kakuna	Cocoon Pokémon	さなぎポケモン	Chrysalis Pokémon
+0015	Beedrill	Beedrill	Poison Bee Pokémon	どくばちポケモン	Poison Bee Pokémon
+0016	Pidgey	    Pidgey	Tiny Bird Pokémon	ことりポケモン	Tiny Bird Pokémon
+0017	Pidgeotto	Pidgeotto	Bird Pokémon	とりポケモン	Bird Pokémon
+0018	Pidgeot	    Pidgeot	Bird Pokémon	とりポケモン	Bird Pokémon
+0019	Rattata	    Rattata	Mouse Pokémon	ねずみポケモン	Mouse Pokémon
+0020	Raticate	Raticate	Mouse Pokémon	ねずみポケモン	Mouse Pokémon
+0021	Spearow	    Spearow	Tiny Bird Pokémon	ことりポケモン	Tiny Bird Pokémon
+0022	Fearow	    Fearow	Beak Pokémon	くちばしポケモン	Beak Pokémon
+0023	Ekans	    Ekans	Snake Pokémon	へびポケモン	Snake Pokémon
+0024	Arbok	    Arbok	Cobra Pokémon	コブラポケモン	Cobra Pokémon
+0025	Pikachu	    Pikachu	Mouse Pokémon	ねずみポケモン	Mouse Pokémon
+0026	Raichu	    Raichu	Mouse Pokémon	ねずみポケモン	Mouse Pokémon
+0027	Sandshrew	Sandshrew	Mouse Pokémon	ねずみポケモン	Mouse Pokémon
+0028	Sandslash	Sandslash	Mouse Pokémon	ねずみポケモン	Mouse Pokémon
+0029	Nidoran♀	Nidoran♀	Poison Pin Pokémon	どくばりポケモン	Poison Pin Pokémon
+0030	Nidorina	Nidorina	Poison Pin Pokémon	どくばりポケモン	Poison Pin Pokémon
+0031	Nidoqueen	Nidoqueen	Drill Pokémon	ドリルポケモン	Drill Pokémon
+0032	Nidoran♂	Nidoran♂	Poison Pin Pokémon	どくばりポケモン	Poison Pin Pokémon
+0033	Nidorino	Nidorino	Poison Pin Pokémon	どくばりポケモン	Poison Pin Pokémon
+0034	Nidoking	Nidoking	Drill Pokémon	ドリルポケモン	Drill Pokémon
+0035	Clefairy	Clefairy	Fairy Pokémon	ようせいポケモン	Fairy Pokémon
+0036	Clefable	Clefable	Fairy Pokémon	ようせいポケモン	Fairy Pokémon
+0037	Vulpix	    Vulpix	Fox Pokémon	きつねポケモン	Fox Pokémon
+0038	Ninetales	Ninetales	Fox Pokémon	きつねポケモン	Fox Pokémon
+0039	Jigglypuff	Jigglypuff	Balloon Pokémon	ふうせんポケモン	Balloon Pokémon
+0040	Wigglytuff	Wigglytuff	Balloon Pokémon	ふうせんポケモン	Balloon Pokémon
+0041	Zubat	    Zubat	Bat Pokémon	こうもりポケモン	Bat Pokémon
+0042	Golbat	    Golbat	Bat Pokémon	こうもりポケモン	Bat Pokémon
+0043	Oddish	    Oddish	Weed Pokémon	ざっそうポケモン	Weed Pokémon
+0044	Gloom	    Gloom	Weed Pokémon	ざっそうポケモン	Weed Pokémon
+0045	Vileplume	Vileplume	Flower Pokémon	フラワーポケモン	Flower Pokémon
+0046	Paras	    Paras	Mushroom Pokémon	きのこポケモン	Mushroom Pokémon
+0047	Parasect	Parasect	Mushroom Pokémon	きのこポケモン	Mushroom Pokémon
+0048	Venonat	    Venonat	Insect Pokémon	こんちゅうポケモン	Insect Pokémon
+0049	Venomoth	Venomoth	Poison Moth Pokémon	どくがポケモン	Poison Moth Pokémon
+0050	Diglett	    Diglett	Mole Pokémon	もぐらポケモン	Mole Pokémon
+0051	Dugtrio	    Dugtrio	Mole Pokémon	もぐらポケモン	Mole Pokémon
+0052	Meowth	    Meowth	Scratch Cat Pokémon	ばけねこポケモン	Bakeneko Pokémon
+0053	Persian	    Persian	Classy Cat Pokémon	シャムネコポケモン	Siamese Cat Pokémon
+0054	Psyduck	    Psyduck	Duck Pokémon	あひるポケモン	Duck Pokémon
+0055	Golduck	    Golduck	Duck Pokémon	あひるポケモン	Duck Pokémon
+0056	Mankey	    Mankey	Pig Monkey Pokémon	ぶたざるポケモン	Pig Monkey Pokémon
+0057	Primeape	Primeape	Pig Monkey Pokémon	ぶたざるポケモン	Pig Monkey Pokémon
+0058	Growlithe	Growlithe	Puppy Pokémon	こいぬポケモン	Puppy Pokémon
+0058	Growlithe	Growlithe Hisuian Form	Scout Pokémon	みはりポケモン	Lookout Pokémon
+0059	Arcanine	Arcanine	Legendary Pokémon	でんせつポケモン	Legend Pokémon
+0060	Poliwag	Poliwag	Tadpole Pokémon	おたまポケモン	Tadpole Pokémon
+0061	Poliwhirl	Poliwhirl	Tadpole Pokémon	おたまポケモン	Tadpole Pokémon
+0062	Poliwrath	Poliwrath	Tadpole Pokémon	おたまポケモン	Tadpole Pokémon
+0063	Abra	Abra	Psi Pokémon	ねんりきポケモン	Psychic Power Pokémon
+0064	Kadabra	Kadabra	Psi Pokémon	ねんりきポケモン	Psychic Power Pokémon
+0065	Alakazam	Alakazam	Psi Pokémon	ねんりきポケモン	Psychic Power Pokémon
+0066	Machop	Machop	Superpower Pokémon	かいりきポケモン	Superhuman Strength Pokémon
+0067	Machoke	Machoke	Superpower Pokémon	かいりきポケモン	Superhuman Strength Pokémon
+0068	Machamp	Machamp	Superpower Pokémon	かいりきポケモン	Superhuman Strength Pokémon
+0069	Bellsprout	Bellsprout	Flower Pokémon	フラワーポケモン	Flower Pokémon
+0070	Weepinbell	Weepinbell	Flycatcher Pokémon	ハエとりポケモン	Flycatcher Pokémon
+0071	Victreebel	Victreebel	Flycatcher Pokémon	ハエとりポケモン	Flycatcher Pokémon
+0072	Tentacool	Tentacool	Jellyfish Pokémon	くらげポケモン	Jellyfish Pokémon
+0073	Tentacruel	Tentacruel	Jellyfish Pokémon	くらげポケモン	Jellyfish Pokémon
+0074	Geodude	Geodude	Rock Pokémon	がんせきポケモン	Rock Pokémon
+0075	Graveler	Graveler	Rock Pokémon	がんせきポケモン	Rock Pokémon
+0076	Golem	Golem	Megaton Pokémon	メガトンポケモン	Megaton Pokémon
+0077	Ponyta	Ponyta	Fire Horse Pokémon	ひのうまポケモン	Fire Horse Pokémon
+0077	Ponyta	Ponyta
+Galarian Form	Unique Horn Pokémon	いっかくポケモン	One Horn Pokémon
+0078	Rapidash	Rapidash	Fire Horse Pokémon	ひのうまポケモン	Fire Horse Pokémon
+0078	Rapidash	Rapidash
+Galarian Form	Unique Horn Pokémon	いっかくポケモン	One Horn Pokémon
+0079	Slowpoke	Slowpoke	Dopey Pokémon	まぬけポケモン	Stupid Pokémon
+0080	Slowbro	Slowbro	Hermit Crab Pokémon	やどかりポケモン	Hermit Crab Pokémon
+0081	Magnemite	Magnemite	Magnet Pokémon	じしゃくポケモン	Magnet Pokémon
+0082	Magneton	Magneton	Magnet Pokémon	じしゃくポケモン	Magnet Pokémon
+0083	Farfetch'd	Farfetch'd	Wild Duck Pokémon	かるがもポケモン	Spot-Billed Duck Pokémon
+0084	Doduo	Doduo	Twin Bird Pokémon	ふたごどりポケモン	Twin Bird Pokémon
+0085	Dodrio	Dodrio	Triple Bird Pokémon	みつごどりポケモン	Triplet Bird Pokémon
+0086	Seel	Seel	Sea Lion Pokémon	あしかポケモン	Sea Lion Pokémon
+0087	Dewgong	Dewgong	Sea Lion Pokémon	あしかポケモン	Sea Lion Pokémon
+0088	Grimer	Grimer	Sludge Pokémon	ヘドロポケモン	Sludge Pokémon
+0089	Muk	Muk	Sludge Pokémon	ヘドロポケモン	Sludge Pokémon
+0090	Shellder	Shellder	Bivalve Pokémon	2まいがいポケモン	Bivalve Pokémon
+0091	Cloyster	Cloyster	Bivalve Pokémon	2まいがいポケモン	Bivalve Pokémon
+0092	Gastly	Gastly	Gas Pokémon	ガスじょうポケモン	Gaseous Pokémon
+0093	Haunter	Haunter	Gas Pokémon	ガスじょうポケモン	Gaseous Pokémon
+0094	Gengar	Gengar	Shadow Pokémon	シャドーポケモン	Shadow Pokémon
+0095	Onix	Onix	Rock Snake Pokémon	いわへびポケモン	Rock Snake Pokémon
+0096	Drowzee	Drowzee	Hypnosis Pokémon	さいみんポケモン	Hypnosis Pokémon
+0097	Hypno	Hypno	Hypnosis Pokémon	さいみんポケモン	Hypnosis Pokémon
+0098	Krabby	Krabby	River Crab Pokémon	さわがにポケモン	Freshwater Crab Pokémon
+0099	Kingler	Kingler	Pincer Pokémon	はさみポケモン	Pincer Pokémon
+0100	Voltorb	Voltorb	Ball Pokémon	ボールポケモン	Ball Pokémon
+0100	Voltorb	Voltorb
+Hisuian Form	Sphere Pokémon	きゅうたいポケモン	Sphere Pokémon
+0101	Electrode	Electrode	Ball Pokémon	ボールポケモン	Ball Pokémon
+0101	Electrode	Electrode
+Hisuian Form	Sphere Pokémon	きゅうたいポケモン	Sphere Pokémon
+0102	Exeggcute	Exeggcute	Egg Pokémon	たまごポケモン	Egg Pokémon
+0103	Exeggutor	Exeggutor	Coconut Pokémon	やしのみポケモン	Coconut Pokémon
+0104	Cubone	Cubone	Lonely Pokémon	こどくポケモン	Lonely Pokémon
+0105	Marowak	Marowak	Bone Keeper Pokémon	ほねずきポケモン	Bone Lover Pokémon
+0106	Hitmonlee	Hitmonlee	Kicking Pokémon	キックポケモン	Kick Pokémon
+0107	Hitmonchan	Hitmonchan	Punching Pokémon	パンチポケモン	Punch Pokémon
+0108	Lickitung	Lickitung	Licking Pokémon	なめまわしポケモン	Licking Pokémon
+0109	Koffing	Koffing	Poison Gas Pokémon	どくガスポケモン	Poison Gas Pokémon
+0110	Weezing	Weezing	Poison Gas Pokémon	どくガスポケモン	Poison Gas Pokémon
+0111	Rhyhorn	Rhyhorn	Spikes Pokémon	とげとげポケモン	Spiky Pokémon
+0112	Rhydon	Rhydon	Drill Pokémon	ドリルポケモン	Drill Pokémon
+0113	Chansey	Chansey	Egg Pokémon	たまごポケモン	Egg Pokémon
+0114	Tangela	Tangela	Vine Pokémon	ツルじょうポケモン	Vine Pokémon
+0115	Kangaskhan	Kangaskhan	Parent Pokémon	おやこポケモン	Parent and Child Pokémon
+0116	Horsea	Horsea	Dragon Pokémon	ドラゴンポケモン	Dragon Pokémon
+0117	Seadra	Seadra	Dragon Pokémon	ドラゴンポケモン	Dragon Pokémon
+0118	Goldeen	Goldeen	Goldfish Pokémon	きんぎょポケモン	Goldfish Pokémon
+0119	Seaking	Seaking	Goldfish Pokémon	きんぎょポケモン	Goldfish Pokémon
+0120	Staryu	Staryu	Star Shape Pokémon	ほしがたポケモン	Star Shape Pokémon
+0121	Starmie	Starmie	Mysterious Pokémon	なぞのポケモン	Mysterious Pokémon
+0122	Mr. Mime	Mr. Mime	Barrier Pokémon	バリアーポケモン	Barrier Pokémon
+0122	Mr. Mime	Mr. Mime
+Galarian Form	Dancing Pokémon	ダンスポケモン	Dance Pokémon
+0123	Scyther	Scyther	Mantis Pokémon	かまきりポケモン	Mantis Pokémon
+0124	Jynx	Jynx	Human Shape Pokémon	ひとがたポケモン	Humanoid Pokémon
+0125	Electabuzz	Electabuzz	Electric Pokémon	でんげきポケモン	Electric Shock Pokémon
+0126	Magmar	Magmar	Spitfire Pokémon	ひふきポケモン	Spitfire Pokémon
+0127	Pinsir	Pinsir	Stag Beetle Pokémon	くわがたポケモン	Stag Beetle Pokémon
+0128	Tauros	Tauros	Wild Bull Pokémon	あばれうしポケモン	Wild Bull Pokémon
+0129	Magikarp	Magikarp	Fish Pokémon	さかなポケモン	Fish Pokémon
+0130	Gyarados	Gyarados	Atrocious Pokémon	きょうあくポケモン	Atrocious Pokémon
+0131	Lapras	Lapras	Transport Pokémon	のりものポケモン	Transport Pokémon
+0132	Ditto	Ditto	Transform Pokémon	へんしんポケモン	Transformation Pokémon
+0133	Eevee	Eevee	Evolution Pokémon	しんかポケモン	Evolution Pokémon
+0134	Vaporeon	Vaporeon	Bubble Jet Pokémon	あわはきポケモン	Foam-Spitting Pokémon
+0135	Jolteon	Jolteon	Lightning Pokémon	かみなりポケモン	Lightning Pokémon
+0136	Flareon	Flareon	Flame Pokémon	ほのおポケモン	Flame Pokémon
+0137	Porygon	Porygon	Virtual Pokémon	バーチャルポケモン	Virtual Pokémon
+0138	Omanyte	Omanyte	Spiral Pokémon	うずまきポケモン	Spiral Pokémon
+0139	Omastar	Omastar	Spiral Pokémon	うずまきポケモン	Spiral Pokémon
+0140	Kabuto	Kabuto	Shellfish Pokémon	こうらポケモン	Shell Pokémon
+0141	Kabutops	Kabutops	Shellfish Pokémon	こうらポケモン	Shell Pokémon
+0142	Aerodactyl	Aerodactyl	Fossil Pokémon	かせきポケモン	Fossil Pokémon
+0143	Snorlax	Snorlax	Sleeping Pokémon	いねむりポケモン	Dozing Pokémon
+0144	Articuno	Articuno	Freeze Pokémon	れいとうポケモン	Freezing Pokémon
+0144	Articuno	Articuno
+Galarian Form	Cruel Pokémon	れいこくポケモン	Cruel Pokémon
+0145	Zapdos	Zapdos	Electric Pokémon	でんげきポケモン	Electric Shock Pokémon
+0145	Zapdos	Zapdos
+Galarian Form	Strong Legs Pokémon	けんきゃくポケモン	Good Walker Pokémon
+0146	Moltres	Moltres	Flame Pokémon	かえんポケモン	Flame Pokémon
+0146	Moltres	Moltres
+Galarian Form	Malevolent Pokémon	じゃあくポケモン	Evil Pokémon
+0147	Dratini	Dratini	Dragon Pokémon	ドラゴンポケモン	Dragon Pokémon
+0148	Dragonair	Dragonair	Dragon Pokémon	ドラゴンポケモン	Dragon Pokémon
+0149	Dragonite	Dragonite	Dragon Pokémon	ドラゴンポケモン	Dragon Pokémon
+0150	Mewtwo	Mewtwo	Genetic Pokémon	いでんしポケモン	Genetic Pokémon
+0151	Mew	Mew	New Species Pokémon	しんしゅポケモン	New Species Pokémon
+0152	Chikorita	Chikorita	Leaf Pokémon	はっぱポケモン	Leaf Pokémon
+0153	Bayleef	Bayleef	Leaf Pokémon	はっぱポケモン	Leaf Pokémon
+0154	Meganium	Meganium	Herb Pokémon	ハーブポケモン	Herb Pokémon
+0155	Cyndaquil	Cyndaquil	Fire Mouse Pokémon	ひねずみポケモン	Fire Mouse Pokémon
+0156	Quilava	Quilava	Volcano Pokémon	かざんポケモン	Volcano Pokémon
+0157	Typhlosion	Typhlosion	Volcano Pokémon	かざんポケモン	Volcano Pokémon
+0157	Typhlosion	Typhlosion
+Hisuian Form	Ghost Flame Pokémon	おにびポケモン	Ghost Flame Pokémon
+0158	Totodile	Totodile	Big Jaw Pokémon	おおあごポケモン	Big Jaw Pokémon
+0159	Croconaw	Croconaw	Big Jaw Pokémon	おおあごポケモン	Big Jaw Pokémon
+0160	Feraligatr	Feraligatr	Big Jaw Pokémon	おおあごポケモン	Big Jaw Pokémon
+0161	Sentret	Sentret	Scout Pokémon	みはりポケモン	Lookout Pokémon
+0162	Furret	Furret	Long Body Pokémon	どうながポケモン	Long Torso Pokémon
+0163	Hoothoot	Hoothoot	Owl Pokémon	ふくろうポケモン	Owl Pokémon
+0164	Noctowl	Noctowl	Owl Pokémon	ふくろうポケモン	Owl Pokémon
+0165	Ledyba	Ledyba	Five Star Pokémon	いつつぼしポケモン	Five Star Pokémon
+0166	Ledian	Ledian	Five Star Pokémon	いつつぼしポケモン	Five Star Pokémon
+0167	Spinarak	Spinarak	String Spit Pokémon	いとはきポケモン	String-Spitting Pokémon
+0168	Ariados	Ariados	Long Leg Pokémon	あしながポケモン	Long Leg Pokémon
+0169	Crobat	Crobat	Bat Pokémon	こうもりポケモン	Bat Pokémon
+0170	Chinchou	Chinchou	Angler Pokémon	あんこうポケモン	Anglerfish Pokémon
+0171	Lanturn	Lanturn	Light Pokémon	ライトポケモン	Light Pokémon
+0172	Pichu	Pichu	Tiny Mouse Pokémon	こねずみポケモン	Small Mouse Pokémon
+0173	Cleffa	Cleffa	Star Shape Pokémon	ほしがたポケモン	Star Shape Pokémon
+0174	Igglybuff	Igglybuff	Balloon Pokémon	ふうせんポケモン	Balloon Pokémon
+0175	Togepi	Togepi	Spike Ball Pokémon	はりたまポケモン	Spike Ball Pokémon
+0176	Togetic	Togetic	Happiness Pokémon	しあわせポケモン	Happiness Pokémon
+0177	Natu	Natu	Tiny Bird Pokémon	ことりポケモン	Tiny Bird Pokémon
+0178	Xatu	Xatu	Mystic Pokémon	せいれいポケモン	Spirit Pokémon
+0179	Mareep	Mareep	Wool Pokémon	わたげポケモン	Fluff Pokémon
+0180	Flaaffy	Flaaffy	Wool Pokémon	わたげポケモン	Fluff Pokémon
+0181	Ampharos	Ampharos	Light Pokémon	ライトポケモン	Light Pokémon
+0182	Bellossom	Bellossom	Flower Pokémon	フラワーポケモン	Flower Pokémon
+0183	Marill	Marill	Aqua Mouse Pokémon	みずねずみポケモン	Water Mouse Pokémon
+0184	Azumarill	Azumarill	Aqua Rabbit Pokémon	みずうさぎポケモン	Water Rabbit Pokémon
+0185	Sudowoodo	Sudowoodo	Imitation Pokémon	まねポケモン	Imitation Pokémon
+0186	Politoed	Politoed	Frog Pokémon	かえるポケモン	Frog Pokémon
+0187	Hoppip	Hoppip	Cottonweed Pokémon	わたくさポケモン	Cottonweed Pokémon
+0188	Skiploom	Skiploom	Cottonweed Pokémon	わたくさポケモン	Cottonweed Pokémon
+0189	Jumpluff	Jumpluff	Cottonweed Pokémon	わたくさポケモン	Cottonweed Pokémon
+0190	Aipom	Aipom	Long Tail Pokémon	おながポケモン	Long Tail Pokémon
+0191	Sunkern	Sunkern	Seed Pokémon	たねポケモン	Seed Pokémon
+0192	Sunflora	Sunflora	Sun Pokémon	たいようポケモン	Sun Pokémon
+0193	Yanma	Yanma	Clear Wing Pokémon	うすばねポケモン	Thin Wing Pokémon
+0194	Wooper	Wooper	Water Fish Pokémon	みずうおポケモン	Water Fish Pokémon
+0194	Wooper	Wooper
+Paldean Form	Poison Fish Pokémon	どくうおポケモン	Poison Fish Pokémon
+0195	Quagsire	Quagsire	Water Fish Pokémon	みずうおポケモン	Water Fish Pokémon
+0196	Espeon	Espeon	Sun Pokémon	たいようポケモン	Sun Pokémon
+0197	Umbreon	Umbreon	Moonlight Pokémon	げっこうポケモン	Moonlight Pokémon
+0198	Murkrow	Murkrow	Darkness Pokémon	くらやみポケモン	Darkness Pokémon
+0199	Slowking	Slowking	Royal Pokémon	おうじゃポケモン	Monarch Pokémon
+0199	Slowking	Slowking
+Galarian Form	Hexpert Pokémon	じゅじゅつしポケモン	Shaman Pokémon
+0200	Misdreavus	Misdreavus	Screech Pokémon	よなきポケモン	Night Cry Pokémon
+0201	Unown	Unown	Symbol Pokémon	シンボルポケモン	Symbol Pokémon
+0202	Wobbuffet	Wobbuffet	Patient Pokémon	がまんポケモン	Endurance Pokémon
+0203	Girafarig	Girafarig	Long Neck Pokémon	くびながポケモン	Long Neck Pokémon
+0204	Pineco	Pineco	Bagworm Pokémon	みのむしポケモン	Bagworm Pokémon
+0205	Forretress	Forretress	Bagworm Pokémon	みのむしポケモン	Bagworm Pokémon
+0206	Dunsparce	Dunsparce	Land Snake Pokémon	つちへびポケモン	Land Snake Pokémon
+0207	Gligar	Gligar	Fly Scorpion Pokémon	とびさそりポケモン	Flying Scorpion Pokémon
+0208	Steelix	Steelix	Iron Snake Pokémon	てつへびポケモン	Iron Snake Pokémon
+0209	Snubbull	Snubbull	Fairy Pokémon	ようせいポケモン	Fairy Pokémon
+0210	Granbull	Granbull	Fairy Pokémon	ようせいポケモン	Fairy Pokémon
+0211	Qwilfish	Qwilfish	Balloon Pokémon	ふうせんポケモン	Balloon Pokémon
+0212	Scizor	Scizor	Pincer Pokémon	はさみポケモン	Pincer Pokémon
+0213	Shuckle	Shuckle	Mold Pokémon	はっこうポケモン	Fermentation Pokémon
+0214	Heracross	Heracross	Single Horn Pokémon	1ぽんヅノポケモン	Single Horn Pokémon
+0215	Sneasel	Sneasel	Sharp Claw Pokémon	かぎづめポケモン	Claw Pokémon
+0216	Teddiursa	Teddiursa	Little Bear Pokémon	こぐまポケモン	Small Bear Pokémon
+0217	Ursaring	Ursaring	Hibernator Pokémon	とうみんポケモン	Hibernation Pokémon
+0218	Slugma	Slugma	Lava Pokémon	ようがんポケモン	Lava Pokémon
+0219	Magcargo	Magcargo	Lava Pokémon	ようがんポケモン	Lava Pokémon
+0220	Swinub	Swinub	Pig Pokémon	いのぶたポケモン	Pig Boar Pokémon
+0221	Piloswine	Piloswine	Swine Pokémon	いのししポケモン	Wild Boar Pokémon
+0222	Corsola	Corsola	Coral Pokémon	さんごポケモン	Coral Pokémon
+0223	Remoraid	Remoraid	Jet Pokémon	ふんしゃポケモン	Jet Pokémon
+0224	Octillery	Octillery	Jet Pokémon	ふんしゃポケモン	Jet Pokémon
+0225	Delibird	Delibird	Delivery Pokémon	はこびやポケモン	Courier Pokémon
+0226	Mantine	Mantine	Kite Pokémon	カイトポケモン	Kite Pokémon
+0227	Skarmory	Skarmory	Armor Bird Pokémon	よろいどりポケモン	Armor Bird Pokémon
+0228	Houndour	Houndour	Dark Pokémon	ダークポケモン	Dark Pokémon
+0229	Houndoom	Houndoom	Dark Pokémon	ダークポケモン	Dark Pokémon
+0230	Kingdra	Kingdra	Dragon Pokémon	ドラゴンポケモン	Dragon Pokémon
+0231	Phanpy	Phanpy	Long Nose Pokémon	ながはなポケモン	Long Nose Pokémon
+0232	Donphan	Donphan	Armor Pokémon	よろいポケモン	Armor Pokémon
+0233	Porygon2	Porygon2	Virtual Pokémon	バーチャルポケモン	Virtual Pokémon
+0234	Stantler	Stantler	Big Horn Pokémon	おおツノポケモン	Big Horn Pokémon
+0235	Smeargle	Smeargle	Painter Pokémon	えかきポケモン	Painter Pokémon
+0236	Tyrogue	Tyrogue	Scuffle Pokémon	けんかポケモン	Scuffle Pokémon
+0237	Hitmontop	Hitmontop	Handstand Pokémon	さかだちポケモン	Headstand Pokémon
+0238	Smoochum	Smoochum	Kiss Pokémon	くちづけポケモン	Kiss Pokémon
+0239	Elekid	Elekid	Electric Pokémon	でんきポケモン	Electric Pokémon
+0240	Magby	Magby	Live Coal Pokémon	ひだねポケモン	Live Coal Pokémon
+0241	Miltank	Miltank	Milk Cow Pokémon	ちちうしポケモン	Dairy Cow Pokémon
+0242	Blissey	Blissey	Happiness Pokémon	しあわせポケモン	Happiness Pokémon
+0243	Raikou	Raikou	Thunder Pokémon	いかずちポケモン	Thunder Pokémon
+0244	Entei	Entei	Volcano Pokémon	かざんポケモン	Volcano Pokémon
+0245	Suicune	Suicune	Aurora Pokémon	オーロラポケモン	Aurora Pokémon
+0246	Larvitar	Larvitar	Rock Skin Pokémon	いわはだポケモン	Rock Skin Pokémon
+0247	Pupitar	Pupitar	Hard Shell Pokémon	だんがんポケモン	Bullet Pokémon
+0248	Tyranitar	Tyranitar	Armor Pokémon	よろいポケモン	Armor Pokémon
+0249	Lugia	Lugia	Diving Pokémon	せんすいポケモン	Diving Pokémon
+0250	Ho-Oh	Ho-Oh	Rainbow Pokémon	にじいろポケモン	Rainbow-Colored Pokémon
+0251	Celebi	Celebi	Time Travel Pokémon	ときわたりポケモン	Time Traveling Pokémon
+0252	Treecko	Treecko	Wood Gecko Pokémon	もりトカゲポケモン	Forest Lizard Pokémon
+0253	Grovyle	Grovyle	Wood Gecko Pokémon	もりトカゲポケモン	Forest Lizard Pokémon
+0254	Sceptile	Sceptile	Forest Pokémon	みつりんポケモン	Jungle Pokémon
+0255	Torchic	Torchic	Chick Pokémon	ひよこポケモン	Chick Pokémon
+0256	Combusken	Combusken	Young Fowl Pokémon	わかどりポケモン	Chicken Pokémon
+0257	Blaziken	Blaziken	Blaze Pokémon	もうかポケモン	Raging Flames Pokémon
+0258	Mudkip	Mudkip	Mud Fish Pokémon	ぬまうおポケモン	Swamp Fish Pokémon
+0259	Marshtomp	Marshtomp	Mud Fish Pokémon	ぬまうおポケモン	Swamp Fish Pokémon
+0260	Swampert	Swampert	Mud Fish Pokémon	ぬまうおポケモン	Swamp Fish Pokémon
+0261	Poochyena	Poochyena	Bite Pokémon	かみつきポケモン	Bite Pokémon
+0262	Mightyena	Mightyena	Bite Pokémon	かみつきポケモン	Bite Pokémon
+0263	Zigzagoon	Zigzagoon	Tiny Raccoon Pokémon	まめだぬきポケモン	Tiny Raccoon Dog Pokémon
+0264	Linoone	Linoone	Rushing Pokémon	とっしんポケモン	Rushing Pokémon
+0265	Wurmple	Wurmple	Worm Pokémon	いもむしポケモン	Caterpillar Pokémon
+0266	Silcoon	Silcoon	Cocoon Pokémon	さなぎポケモン	Chrysalis Pokémon
+0267	Beautifly	Beautifly	Butterfly Pokémon	ちょうちょポケモン	Butterfly Pokémon
+0268	Cascoon	Cascoon	Cocoon Pokémon	さなぎポケモン	Chrysalis Pokémon
+0269	Dustox	Dustox	Poison Moth Pokémon	どくがポケモン	Poison Moth Pokémon
+0270	Lotad	Lotad	Water Weed Pokémon	うきくさポケモン	Floating Weed Pokémon
+0271	Lombre	Lombre	Jolly Pokémon	ようきポケモン	Cheerful Pokémon
+0272	Ludicolo	Ludicolo	Carefree Pokémon	のうてんきポケモン	Optimistic Pokémon
+0273	Seedot	Seedot	Acorn Pokémon	どんぐりポケモン	Acorn Pokémon
+0274	Nuzleaf	Nuzleaf	Wily Pokémon	いじわるポケモン	Malicious Pokémon
+0275	Shiftry	Shiftry	Wicked Pokémon	よこしまポケモン	Wicked Pokémon
+0276	Taillow	Taillow	Tiny Swallow Pokémon	こツバメポケモン	Small Swallow Pokémon
+0277	Swellow	Swellow	Swallow Pokémon	ツバメポケモン	Swallow Pokémon
+0278	Wingull	Wingull	Seagull Pokémon	うみねこポケモン	Black-Tailed Gull Pokémon
+0279	Pelipper	Pelipper	Water Bird Pokémon	みずどりポケモン	Waterfowl Pokémon
+0280	Ralts	Ralts	Feeling Pokémon	きもちポケモン	Feeling Pokémon
+0281	Kirlia	Kirlia	Emotion Pokémon	かんじょうポケモン	Emotion Pokémon
+0282	Gardevoir	Gardevoir	Embrace Pokémon	ほうようポケモン	Embrace Pokémon
+0283	Surskit	Surskit	Pond Skater Pokémon	あめんぼポケモン	Water Strider Pokémon
+0284	Masquerain	Masquerain	Eyeball Pokémon	めだまポケモン	Eyeball Pokémon
+0285	Shroomish	Shroomish	Mushroom Pokémon	きのこポケモン	Mushroom Pokémon
+0286	Breloom	Breloom	Mushroom Pokémon	きのこポケモン	Mushroom Pokémon
+0287	Slakoth	Slakoth	Slacker Pokémon	なまけものポケモン	Sloth Pokémon
+0288	Vigoroth	Vigoroth	Wild Monkey Pokémon	あばれザルポケモン	Rampaging Monkey Pokémon
+0289	Slaking	Slaking	Lazy Pokémon	ものぐさポケモン	Lazy Pokémon
+0290	Nincada	Nincada	Trainee Pokémon	したづみポケモン	Lowest-Class Pokémon
+0291	Ninjask	Ninjask	Ninja Pokémon	しのびポケモン	Ninja Pokémon
+0292	Shedinja	Shedinja	Shed Pokémon	ぬけがらポケモン	Husk Pokémon
+0293	Whismur	Whismur	Whisper Pokémon	ささやきポケモン	Whisper Pokémon
+0294	Loudred	Loudred	Big Voice Pokémon	おおごえポケモン	Large Voice Pokémon
+0295	Exploud	Exploud	Loud Noise Pokémon	そうおんポケモン	Noise Pokémon
+0296	Makuhita	Makuhita	Guts Pokémon	こんじょうポケモン	Guts Pokémon
+0297	Hariyama	Hariyama	Arm Thrust Pokémon	つっぱりポケモン	Palm Thrust Pokémon
+0298	Azurill	Azurill	Polka Dot Pokémon	みずたまポケモン	Polka Dot Pokémon
+0299	Nosepass	Nosepass	Compass Pokémon	コンパスポケモン	Compass Pokémon
+0300	Skitty	Skitty	Kitten Pokémon	こねこポケモン	Kitten Pokémon
+0301	Delcatty	Delcatty	Prim Pokémon	おすましポケモン	Prim and Proper Pokémon
+0302	Sableye	Sableye	Darkness Pokémon	くらやみポケモン	Darkness Pokémon
+0303	Mawile	Mawile	Deceiver Pokémon	あざむきポケモン	Deceiver Pokémon
+0304	Aron	Aron	Iron Armor Pokémon	てつヨロイポケモン	Iron Armor Pokémon
+0305	Lairon	Lairon	Iron Armor Pokémon	てつヨロイポケモン	Iron Armor Pokémon
+0306	Aggron	Aggron	Iron Armor Pokémon	てつヨロイポケモン	Iron Armor Pokémon
+0307	Meditite	Meditite	Meditate Pokémon	めいそうポケモン	Meditation Pokémon
+0308	Medicham	Medicham	Meditate Pokémon	めいそうポケモン	Meditation Pokémon
+0309	Electrike	Electrike	Lightning Pokémon	いなずまポケモン	Lightning Pokémon
+0310	Manectric	Manectric	Discharge Pokémon	ほうでんポケモン	Discharge Pokémon
+0311	Plusle	Plusle	Cheering Pokémon	おうえんポケモン	Cheering Pokémon
+0312	Minun	Minun	Cheering Pokémon	おうえんポケモン	Cheering Pokémon
+0313	Volbeat	Volbeat	Firefly Pokémon	ほたるポケモン	Firefly Pokémon
+0314	Illumise	Illumise	Firefly Pokémon	ほたるポケモン	Firefly Pokémon
+0315	Roselia	Roselia	Thorn Pokémon	いばらポケモン	Thorn Pokémon
+0316	Gulpin	Gulpin	Stomach Pokémon	いぶくろポケモン	Stomach Pokémon
+0317	Swalot	Swalot	Poison Bag Pokémon	どくぶくろポケモン	Poison Bag Pokémon
+0318	Carvanha	Carvanha	Savage Pokémon	どうもうポケモン	Ferocious Pokémon
+0319	Sharpedo	Sharpedo	Brutal Pokémon	きょうぼうポケモン	Brutal Pokémon
+0320	Wailmer	Wailmer	Ball Whale Pokémon	たまくじらポケモン	Ball Whale Pokémon
+0321	Wailord	Wailord	Float Whale Pokémon	うきくじらポケモン	Float Whale Pokémon
+0322	Numel	Numel	Numb Pokémon	どんかんポケモン	Thickheaded Pokémon
+0323	Camerupt	Camerupt	Eruption Pokémon	ふんかポケモン	Eruption Pokémon
+0324	Torkoal	Torkoal	Coal Pokémon	せきたんポケモン	Coal Pokémon
+0325	Spoink	Spoink	Bounce Pokémon	とびはねポケモン	Hopping Pokémon
+0326	Grumpig	Grumpig	Manipulate Pokémon	あやつりポケモン	Manipulation Pokémon
+0327	Spinda	Spinda	Spot Panda Pokémon	ぶちパンダポケモン	Spot Panda Pokémon
+0328	Trapinch	Trapinch	Ant Pit Pokémon	ありじごくポケモン	Antlion Larva Pokémon
+0329	Vibrava	Vibrava	Vibration Pokémon	しんどうポケモン	Vibration Pokémon
+0330	Flygon	Flygon	Mystic Pokémon	せいれいポケモン	Spirit Pokémon
+0331	Cacnea	Cacnea	Cactus Pokémon	サボテンポケモン	Cactus Pokémon
+0332	Cacturne	Cacturne	Scarecrow Pokémon	カカシぐさポケモン	Scarecrow Plant Pokémon
+0333	Swablu	Swablu	Cotton Bird Pokémon	わたどりポケモン	Cotton Bird Pokémon
+0334	Altaria	Altaria	Humming Pokémon	ハミングポケモン	Humming Pokémon
+0335	Zangoose	Zangoose	Cat Ferret Pokémon	ネコイタチポケモン	Mongoose Pokémon
+0336	Seviper	Seviper	Fang Snake Pokémon	キバへびポケモン	Fang Snake Pokémon
+0337	Lunatone	Lunatone	Meteorite Pokémon	いんせきポケモン	Meteorite Pokémon
+0338	Solrock	Solrock	Meteorite Pokémon	いんせきポケモン	Meteorite Pokémon
+0339	Barboach	Barboach	Whiskers Pokémon	ひげうおポケモン	Whisker Fish Pokémon
+0340	Whiscash	Whiscash	Whiskers Pokémon	ひげうおポケモン	Whisker Fish Pokémon
+0341	Corphish	Corphish	Ruffian Pokémon	ごろつきポケモン	Rogue Pokémon
+0342	Crawdaunt	Crawdaunt	Rogue Pokémon	ならずものポケモン	Ruffian Pokémon
+0343	Baltoy	Baltoy	Clay Doll Pokémon	どぐうポケモン	Clay Figure Pokémon
+0344	Claydol	Claydol	Clay Doll Pokémon	どぐうポケモン	Clay Figure Pokémon
+0345	Lileep	Lileep	Sea Lily Pokémon	ウミユリポケモン	Sea Lily Pokémon
+0346	Cradily	Cradily	Barnacle Pokémon	いわつぼポケモン	Stone Cup Pokémon
+0347	Anorith	Anorith	Old Shrimp Pokémon	むかしエビポケモン	Ancient Shrimp Pokémon
+0348	Armaldo	Armaldo	Plate Pokémon	かっちゅうポケモン	Armor Pokémon
+0349	Feebas	Feebas	Fish Pokémon	さかなポケモン	Fish Pokémon
+0350	Milotic	Milotic	Tender Pokémon	いつくしみポケモン	Affection Pokémon
+0351	Castform	Castform	Weather Pokémon	てんきポケモン	Weather Pokémon
+0352	Kecleon	Kecleon	Color Swap Pokémon	いろへんげポケモン	Color Change Pokémon
+0353	Shuppet	Shuppet	Puppet Pokémon	にんぎょうポケモン	Doll Pokémon
+0354	Banette	Banette	Marionette Pokémon	ぬいぐるみポケモン	Stuffed Toy Pokémon
+0355	Duskull	Duskull	Requiem Pokémon	おむかえポケモン	Approaching Death Pokémon
+0356	Dusclops	Dusclops	Beckon Pokémon	てまねきポケモン	Beckoning Pokémon
+0357	Tropius	Tropius	Fruit Pokémon	フルーツポケモン	Fruit Pokémon
+0358	Chimecho	Chimecho	Wind Chime Pokémon	ふうりんポケモン	Wind Chime Pokémon
+0359	Absol	Absol	Disaster Pokémon	わざわいポケモン	Disaster Pokémon
+0360	Wynaut	Wynaut	Bright Pokémon	ほがらかポケモン	Merry Pokémon
+0361	Snorunt	Snorunt	Snow Hat Pokémon	ゆきかさポケモン	Snow Umbrella Pokémon
+0362	Glalie	Glalie	Face Pokémon	がんめんポケモン	Face Pokémon
+0363	Spheal	Spheal	Clap Pokémon	てたたきポケモン	Clap Pokémon
+0364	Sealeo	Sealeo	Ball Roll Pokémon	たままわしポケモン	Ball Roll Pokémon
+0365	Walrein	Walrein	Ice Break Pokémon	こおりわりポケモン	Ice Breaker Pokémon
+0366	Clamperl	Clamperl	Bivalve Pokémon	2まいがいポケモン	Bivalve Pokémon
+0367	Huntail	Huntail	Deep Sea Pokémon	しんかいポケモン	Deep Sea Pokémon
+0368	Gorebyss	Gorebyss	South Sea Pokémon	なんかいポケモン	South Sea Pokémon
+0369	Relicanth	Relicanth	Longevity Pokémon	ちょうじゅポケモン	Longevity Pokémon
+0370	Luvdisc	Luvdisc	Rendezvous Pokémon	ランデブーポケモン	Rendezvous Pokémon
+0371	Bagon	Bagon	Rock Head Pokémon	いしあたまポケモン	Hard-Headed Pokémon
+0372	Shelgon	Shelgon	Endurance Pokémon	にんたいポケモン	Patient Pokémon
+0373	Salamence	Salamence	Dragon Pokémon	ドラゴンポケモン	Dragon Pokémon
+0374	Beldum	Beldum	Iron Ball Pokémon	てっきゅうポケモン	Iron Ball Pokémon
+0375	Metang	Metang	Iron Claw Pokémon	てつツメポケモン	Iron Claw Pokémon
+0376	Metagross	Metagross	Iron Leg Pokémon	てつあしポケモン	Iron Leg Pokémon
+0377	Regirock	Regirock	Rock Peak Pokémon	いわやまポケモン	Rocky Mountain Pokémon
+0378	Regice	Regice	Iceberg Pokémon	ひょうざんポケモン	Iceberg Pokémon
+0379	Registeel	Registeel	Iron Pokémon	くろがねポケモン	Iron Pokémon
+0380	Latias	Latias	Eon Pokémon	むげんポケモン	Infinity Pokémon
+0381	Latios	Latios	Eon Pokémon	むげんポケモン	Infinity Pokémon
+0382	Kyogre	Kyogre	Sea Basin Pokémon	かいていポケモン	Seabed Pokémon
+0383	Groudon	Groudon	Continent Pokémon	たいりくポケモン	Continent Pokémon
+0384	Rayquaza	Rayquaza	Sky High Pokémon	てんくうポケモン	Sky Pokémon
+0385	Jirachi	Jirachi	Wish Pokémon	ねがいごとポケモン	Wish Pokémon
+0386	Deoxys	Deoxys	DNA Pokémon	DNAポケモン	DNA Pokémon
+0387	Turtwig	Turtwig	Tiny Leaf Pokémon	わかばポケモン	New Leaf Pokémon
+0388	Grotle	Grotle	Grove Pokémon	こだちポケモン	Grove Pokémon
+0389	Torterra	Torterra	Continent Pokémon	たいりくポケモン	Continent Pokémon
+0390	Chimchar	Chimchar	Chimp Pokémon	こざるポケモン	Small Monkey Pokémon
+0391	Monferno	Monferno	Playful Pokémon	やんちゃポケモン	Mischievous Pokémon
+0392	Infernape	Infernape	Flame Pokémon	かえんポケモン	Flame Pokémon
+0393	Piplup	Piplup	Penguin Pokémon	ペンギンポケモン	Penguin Pokémon
+0394	Prinplup	Prinplup	Penguin Pokémon	ペンギンポケモン	Penguin Pokémon
+0395	Empoleon	Empoleon	Emperor Pokémon	こうていポケモン	Emperor Pokémon
+0396	Starly	Starly	Starling Pokémon	むくどりポケモン	Starling Pokémon
+0397	Staravia	Staravia	Starling Pokémon	むくどりポケモン	Starling Pokémon
+0398	Staraptor	Staraptor	Predator Pokémon	もうきんポケモン	Bird of Prey Pokémon
+0399	Bidoof	Bidoof	Plump Mouse Pokémon	まるねずみポケモン	Round Mouse Pokémon
+0400	Bibarel	Bibarel	Beaver Pokémon	ビーバーポケモン	Beaver Pokémon
+0401	Kricketot	Kricketot	Cricket Pokémon	こおろぎポケモン	Cricket Pokémon
+0402	Kricketune	Kricketune	Cricket Pokémon	こおろぎポケモン	Cricket Pokémon
+0403	Shinx	Shinx	Flash Pokémon	せんこうポケモン	Flash Pokémon
+0404	Luxio	Luxio	Spark Pokémon	でんこうポケモン	Lightning Pokémon
+0405	Luxray	Luxray	Gleam Eyes Pokémon	がんこうポケモン	Glinting Eyes Pokémon
+0406	Budew	Budew	Bud Pokémon	つぼみポケモン	Bud Pokémon
+0407	Roserade	Roserade	Bouquet Pokémon	ブーケポケモン	Bouquet Pokémon
+0408	Cranidos	Cranidos	Head Butt Pokémon	ずつきポケモン	Head Butt Pokémon
+0409	Rampardos	Rampardos	Head Butt Pokémon	ずつきポケモン	Head Butt Pokémon
+0410	Shieldon	Shieldon	Shield Pokémon	シールドポケモン	Shield Pokémon
+0411	Bastiodon	Bastiodon	Shield Pokémon	シールドポケモン	Shield Pokémon
+0412	Burmy	Burmy	Bagworm Pokémon	みのむしポケモン	Bagworm Pokémon
+0413	Wormadam	Wormadam	Bagworm Pokémon	みのむしポケモン	Bagworm Pokémon
+0414	Mothim	Mothim	Moth Pokémon	ミノガポケモン	Bagworm Moth Pokémon
+0415	Combee	Combee	Tiny Bee Pokémon	はちのこポケモン	Bee Larva Pokémon
+0416	Vespiquen	Vespiquen	Beehive Pokémon	はちのすポケモン	Beehive Pokémon
+0417	Pachirisu	Pachirisu	EleSquirrel Pokémon	でんきリスポケモン	Electric Squirrel Pokémon
+0418	Buizel	Buizel	Sea Weasel Pokémon	うみイタチポケモン	Sea Weasel Pokémon
+0419	Floatzel	Floatzel	Sea Weasel Pokémon	うみイタチポケモン	Sea Weasel Pokémon
+0420	Cherubi	Cherubi	Cherry Pokémon	さくらんぼポケモン	Cherry Pokémon
+0421	Cherrim	Cherrim	Blossom Pokémon	サクラポケモン	Cherry Blossom Pokémon
+0422	Shellos	Shellos	Sea Slug Pokémon	ウミウシポケモン	Sea Slug Pokémon
+0423	Gastrodon	Gastrodon	Sea Slug Pokémon	ウミウシポケモン	Sea Slug Pokémon
+0424	Ambipom	Ambipom	Long Tail Pokémon	おながポケモン	Long Tail Pokémon
+0425	Drifloon	Drifloon	Balloon Pokémon	ふうせんポケモン	Balloon Pokémon
+0426	Drifblim	Drifblim	Blimp Pokémon	ききゅうポケモン	Blimp Pokémon
+0427	Buneary	Buneary	Rabbit Pokémon	うさぎポケモン	Rabbit Pokémon
+0428	Lopunny	Lopunny	Rabbit Pokémon	うさぎポケモン	Rabbit Pokémon
+0429	Mismagius	Mismagius	Magical Pokémon	マジカルポケモン	Magical Pokémon
+0430	Honchkrow	Honchkrow	Big Boss Pokémon	おおボスポケモン	Big Boss Pokémon
+0431	Glameow	Glameow	Catty Pokémon	ねこかぶりポケモン	Beguiling Pokémon
+0432	Purugly	Purugly	Tiger Cat Pokémon	とらねこポケモン	Tiger Cat Pokémon
+0433	Chingling	Chingling	Bell Pokémon	すずポケモン	Bell Pokémon
+0434	Stunky	Stunky	Skunk Pokémon	スカンクポケモン	Skunk Pokémon
+0435	Skuntank	Skuntank	Skunk Pokémon	スカンクポケモン	Skunk Pokémon
+0436	Bronzor	Bronzor	Bronze Pokémon	せいどうポケモン	Bronze Pokémon
+0437	Bronzong	Bronzong	Bronze Bell Pokémon	どうたくポケモン	Bronze Bell Pokémon
+0438	Bonsly	Bonsly	Bonsai Pokémon	ぼんさいポケモン	Bonsai Pokémon
+0439	Mime Jr.	Mime Jr.	Mime Pokémon	マイムポケモン	Mime Pokémon
+0440	Happiny	Happiny	Playhouse Pokémon	ままごとポケモン	Playing House Pokémon
+0441	Chatot	Chatot	Music Note Pokémon	おんぷポケモン	Music Note Pokémon
+0442	Spiritomb	Spiritomb	Forbidden Pokémon	ふういんポケモン	Sealed Pokémon
+0443	Gible	Gible	Land Shark Pokémon	りくザメポケモン	Land Shark Pokémon
+0444	Gabite	Gabite	Cave Pokémon	ほらあなポケモン	Cave Pokémon
+0445	Garchomp	Garchomp	Mach Pokémon	マッハポケモン	Mach Pokémon
+0446	Munchlax	Munchlax	Big Eater Pokémon	おおぐいポケモン	Gluttonous Pokémon
+0447	Riolu	Riolu	Emanation Pokémon	はもんポケモン	Ripple Pokémon
+0448	Lucario	Lucario	Aura Pokémon	はどうポケモン	Wave Pokémon
+0449	Hippopotas	Hippopotas	Hippo Pokémon	カバポケモン	Hippo Pokémon
+0450	Hippowdon	Hippowdon	Heavyweight Pokémon	じゅうりょうポケモン	Heavyweight Pokémon
+0451	Skorupi	Skorupi	Scorpion Pokémon	さそりポケモン	Scorpion Pokémon
+0452	Drapion	Drapion	Ogre Scorpion Pokémon	ばけさそりポケモン	Monster Scorpion Pokémon
+0453	Croagunk	Croagunk	Toxic Mouth Pokémon	どくづきポケモン	Poison Stab Pokémon
+0454	Toxicroak	Toxicroak	Toxic Mouth Pokémon	どくづきポケモン	Poison Stab Pokémon
+0455	Carnivine	Carnivine	Bug Catcher Pokémon	むしとりポケモン	Bug Catcher Pokémon
+0456	Finneon	Finneon	Wing Fish Pokémon	はねうおポケモン	Wing Fish Pokémon
+0457	Lumineon	Lumineon	Neon Pokémon	ネオンポケモン	Neon Pokémon
+0458	Mantyke	Mantyke	Kite Pokémon	カイトポケモン	Kite Pokémon
+0459	Snover	Snover	Frost Tree Pokémon	じゅひょうポケモン	Frost-Covered Tree Pokémon
+0460	Abomasnow	Abomasnow	Frost Tree Pokémon	じゅひょうポケモン	Frost-Covered Tree Pokémon
+0461	Weavile	Weavile	Sharp Claw Pokémon	かぎづめポケモン	Claw Pokémon
+0462	Magnezone	Magnezone	Magnet Area Pokémon	じばポケモン	Magnetic Field Pokémon
+0463	Lickilicky	Lickilicky	Licking Pokémon	なめまわしポケモン	Licking Pokémon
+0464	Rhyperior	Rhyperior	Drill Pokémon	ドリルポケモン	Drill Pokémon
+0465	Tangrowth	Tangrowth	Vine Pokémon	ツルじょうポケモン	Vine Pokémon
+0466	Electivire	Electivire	Thunderbolt Pokémon	らいでんポケモン	Thunder and Lightning Pokémon
+0467	Magmortar	Magmortar	Blast Pokémon	ばくえんポケモン	Explosion Fume Pokémon
+0468	Togekiss	Togekiss	Jubilee Pokémon	しゅくふくポケモン	Blessing Pokémon
+0469	Yanmega	Yanmega	Ogre Darner Pokémon	オニトンボポケモン	Ogre Dragonfly Pokémon
+0470	Leafeon	Leafeon	Verdant Pokémon	しんりょくポケモン	Fresh Verdure Pokémon
+0471	Glaceon	Glaceon	Fresh Snow Pokémon	しんせつポケモン	Fresh Snow Pokémon
+0472	Gliscor	Gliscor	Fang Scorpion Pokémon	キバさそりポケモン	Fang Scorpion Pokémon
+0473	Mamoswine	Mamoswine	Twin Tusk Pokémon	2ほんキバポケモン	Twin Tusk Pokémon
+0474	Porygon-Z	Porygon-Z	Virtual Pokémon	バーチャルポケモン	Virtual Pokémon
+0475	Gallade	Gallade	Blade Pokémon	やいばポケモン	Blade Pokémon
+0476	Probopass	Probopass	Compass Pokémon	コンパスポケモン	Compass Pokémon
+0477	Dusknoir	Dusknoir	Gripper Pokémon	てづかみポケモン	Grasping Pokémon
+0478	Froslass	Froslass	Snow Land Pokémon	ゆきぐにポケモン	Snow Country Pokémon
+0479	Rotom	Rotom	Plasma Pokémon	プラズマポケモン	Plasma Pokémon
+0480	Uxie	Uxie	Knowledge Pokémon	ちしきポケモン	Knowledge Pokémon
+0481	Mesprit	Mesprit	Emotion Pokémon	かんじょうポケモン	Emotion Pokémon
+0482	Azelf	Azelf	Willpower Pokémon	いしポケモン	Will Pokémon
+0483	Dialga	Dialga	Temporal Pokémon	じかんポケモン	Time Pokémon
+0484	Palkia	Palkia	Spatial Pokémon	くうかんポケモン	Space Pokémon
+0485	Heatran	Heatran	Lava Dome Pokémon	かこうポケモン	Caldera Pokémon
+0486	Regigigas	Regigigas	Colossal Pokémon	きょだいポケモン	Gigantic Pokémon
+0487	Giratina	Giratina	Renegade Pokémon	はんこつポケモン	Rebellious Pokémon
+0488	Cresselia	Cresselia	Lunar Pokémon	みかづきポケモン	Crescent Moon Pokémon
+0489	Phione	Phione	Sea Drifter Pokémon	かいようポケモン	Ocean Pokémon
+0490	Manaphy	Manaphy	Seafaring Pokémon	かいゆうポケモン	Migration Pokémon
+0491	Darkrai	Darkrai	Pitch-Black Pokémon	あんこくポケモン	Darkness Pokémon
+0492	Shaymin	Shaymin	Gratitude Pokémon	かんしゃポケモン	Gratitude Pokémon
+0493	Arceus	Arceus	Alpha Pokémon	そうぞうポケモン	Creation Pokémon
+0494	Victini	Victini	Victory Pokémon	しょうりポケモン	Victory Pokémon
+0495	Snivy	Snivy	Grass Snake Pokémon	くさへびポケモン	Grass Snake Pokémon
+0496	Servine	Servine	Grass Snake Pokémon	くさへびポケモン	Grass Snake Pokémon
+0497	Serperior	Serperior	Regal Pokémon	ロイヤルポケモン	Royal Pokémon
+0498	Tepig	Tepig	Fire Pig Pokémon	ひぶたポケモン	Fire Pig Pokémon
+0499	Pignite	Pignite	Fire Pig Pokémon	ひぶたポケモン	Fire Pig Pokémon
+0500	Emboar	Emboar	Mega Fire Pig Pokémon	おおひぶたポケモン	Big Fire Pig Pokémon
+0501	Oshawott	Oshawott	Sea Otter Pokémon	ラッコポケモン	Sea Otter Pokémon
+0502	Dewott	Dewott	Discipline Pokémon	しゅぎょうポケモン	Training Pokémon
+0503	Samurott	Samurott	Formidable Pokémon	かんろくポケモン	Dignified Pokémon
+0504	Patrat	Patrat	Scout Pokémon	みはりポケモン	Lookout Pokémon
+0505	Watchog	Watchog	Lookout Pokémon	けいかいポケモン	Vigilant Pokémon
+0506	Lillipup	Lillipup	Puppy Pokémon	こいぬポケモン	Puppy Pokémon
+0507	Herdier	Herdier	Loyal Dog Pokémon	ちゅうけんポケモン	Faithful Dog Pokémon
+0508	Stoutland	Stoutland	Big-Hearted Pokémon	かんだいポケモン	Tolerant Pokémon
+0509	Purrloin	Purrloin	Devious Pokémon	しょうわるポケモン	Ill-Natured Pokémon
+0510	Liepard	Liepard	Cruel Pokémon	れいこくポケモン	Cruel Pokémon
+0511	Pansage	Pansage	Grass Monkey Pokémon	くさざるポケモン	Grass Monkey Pokémon
+0512	Simisage	Simisage	Thorn Monkey Pokémon	とげざるポケモン	Thorn Monkey Pokémon
+0513	Pansear	Pansear	High Temp Pokémon	こうおんポケモン	High Temperature Pokémon
+0514	Simisear	Simisear	Ember Pokémon	ひのこポケモン	Sparks Pokémon
+0515	Panpour	Panpour	Spray Pokémon	みずかけポケモン	Water Splash Pokémon
+0516	Simipour	Simipour	Geyser Pokémon	ほうすいポケモン	High Water Pokémon
+0517	Munna	Munna	Dream Eater Pokémon	ゆめくいポケモン	Dream Eater Pokémon
+0518	Musharna	Musharna	Drowsing Pokémon	ゆめうつつポケモン	Trance Pokémon
+0519	Pidove	Pidove	Tiny Pigeon Pokémon	こばとポケモン	Small Pigeon Pokémon
+0520	Tranquill	Tranquill	Wild Pigeon Pokémon	のばとポケモン	Wild Pigeon Pokémon
+0521	Unfezant	Unfezant	Proud Pokémon	プライドポケモン	Pride Pokémon
+0522	Blitzle	Blitzle	Electrified Pokémon	たいでんポケモン	Electrified Pokémon
+0523	Zebstrika	Zebstrika	Thunderbolt Pokémon	らいでんポケモン	Thunder and Lightning Pokémon
+0524	Roggenrola	Roggenrola	Mantle Pokémon	マントルポケモン	Mantle Pokémon
+0525	Boldore	Boldore	Ore Pokémon	こうせきポケモン	Ore Pokémon
+0526	Gigalith	Gigalith	Compressed Pokémon	こうあつポケモン	High Pressure Pokémon
+0527	Woobat	Woobat	Bat Pokémon	こうもりポケモン	Bat Pokémon
+0528	Swoobat	Swoobat	Courting Pokémon	きゅうあいポケモン	Courting Pokémon
+0529	Drilbur	Drilbur	Mole Pokémon	もぐらポケモン	Mole Pokémon
+0530	Excadrill	Excadrill	Subterrene Pokémon	ちていポケモン	Deep Earth Pokémon
+0531	Audino	Audino	Hearing Pokémon	ヒヤリングポケモン	Hearing Pokémon
+0532	Timburr	Timburr	Muscular Pokémon	きんこつポケモン	Muscle Pokémon
+0533	Gurdurr	Gurdurr	Muscular Pokémon	きんこつポケモン	Muscle Pokémon
+0534	Conkeldurr	Conkeldurr	Muscular Pokémon	きんこつポケモン	Muscle Pokémon
+0535	Tympole	Tympole	Tadpole Pokémon	おたまポケモン	Tadpole Pokémon
+0536	Palpitoad	Palpitoad	Vibration Pokémon	しんどうポケモン	Vibration Pokémon
+0537	Seismitoad	Seismitoad	Vibration Pokémon	しんどうポケモン	Vibration Pokémon
+0538	Throh	Throh	Judo Pokémon	じゅうどうポケモン	Judo Pokémon
+0539	Sawk	Sawk	Karate Pokémon	からてポケモン	Karate Pokémon
+0540	Sewaddle	Sewaddle	Sewing Pokémon	さいほうポケモン	Sewing Pokémon
+0541	Swadloon	Swadloon	Leaf-Wrapped Pokémon	はごもりポケモン	Forest Cloak Pokémon
+0542	Leavanny	Leavanny	Nurturing Pokémon	こそだてポケモン	Child-Raising Pokémon
+0543	Venipede	Venipede	Centipede Pokémon	ムカデポケモン	Centipede Pokémon
+0544	Whirlipede	Whirlipede	Curlipede Pokémon	まゆムカデポケモン	Cocoon Centipede Pokémon
+0545	Scolipede	Scolipede	Megapede Pokémon	メガムカデポケモン	Mega Centipede Pokémon
+0546	Cottonee	Cottonee	Cotton Puff Pokémon	わたたまポケモン	Cotton Ball Pokémon
+0547	Whimsicott	Whimsicott	Windveiled Pokémon	かぜかくれポケモン	Wind-Hidden Pokémon
+0548	Petilil	Petilil	Bulb Pokémon	ねっこポケモン	Root Pokémon
+0549	Lilligant	Lilligant	Flowering Pokémon	はなかざりポケモン	Flower Decoration Pokémon
+0549	Lilligant	Lilligant
+Hisuian Form	Spinning Pokémon	スピンポケモン	Spin Pokémon
+0550	Basculin	Basculin	Hostile Pokémon	らんぼうポケモン	Violent Pokémon
+0550	Basculin	Basculin
+White-Striped Form	Mellow Pokémon	おんこうポケモン	Gentle Pokémon
+0551	Sandile	Sandile	Desert Croc Pokémon	さばくワニポケモン	Desert Crocodile Pokémon
+0552	Krokorok	Krokorok	Desert Croc Pokémon	さばくワニポケモン	Desert Crocodile Pokémon
+0553	Krookodile	Krookodile	Intimidation Pokémon	いかくポケモン	Menacing Pokémon
+0554	Darumaka	Darumaka	Zen Charm Pokémon	だるまポケモン	Daruma Pokémon
+0555	Darmanitan	Darmanitan	Blazing Pokémon	えんじょうポケモン	Blazing Pokémon
+0555	Darmanitan	Darmanitan
+Galarian Form	Zen Charm Pokémon	だるまポケモン	Daruma Pokémon
+0555	Darmanitan	Darmanitan
+Galarian Form
+Zen Mode	Blazing Pokémon	えんじょうポケモン	Blazing Pokémon
+0556	Maractus	Maractus	Cactus Pokémon	サボテンポケモン	Cactus Pokémon
+0557	Dwebble	Dwebble	Rock Inn Pokémon	いしやどポケモン	Stone Hermit Pokémon
+0558	Crustle	Crustle	Stone Home Pokémon	いわやどポケモン	Rock Hermit Pokémon
+0559	Scraggy	Scraggy	Shedding Pokémon	だっぴポケモン	Shedding Pokémon
+0560	Scrafty	Scrafty	Hoodlum Pokémon	あくとうポケモン	Scoundrel Pokémon
+0561	Sigilyph	Sigilyph	Avianoid Pokémon	とりもどきポケモン	Pseudo-Bird Pokémon
+0562	Yamask	Yamask	Spirit Pokémon	たましいポケモン	Spirit Pokémon
+0563	Cofagrigus	Cofagrigus	Coffin Pokémon	かんおけポケモン	Coffin Pokémon
+0564	Tirtouga	Tirtouga	Prototurtle Pokémon	こだいがめポケモン	Ancient Turtle Pokémon
+0565	Carracosta	Carracosta	Prototurtle Pokémon	こだいがめポケモン	Ancient Turtle Pokémon
+0566	Archen	Archen	First Bird Pokémon	さいこどりポケモン	Oldest Bird Pokémon
+0567	Archeops	Archeops	First Bird Pokémon	さいこどりポケモン	Oldest Bird Pokémon
+0568	Trubbish	Trubbish	Trash Bag Pokémon	ゴミぶくろポケモン	Garbage Bag Pokémon
+0569	Garbodor	Garbodor	Trash Heap Pokémon	ゴミすてばポケモン	Garbage Dump Pokémon
+0570	Zorua	Zorua	Tricky Fox Pokémon	わるぎつねポケモン	Evil Fox Pokémon
+0570	Zorua	Zorua
+Hisuian Form	Spiteful Fox Pokémon	うらみぎつねポケモン	Grudge Fox Pokémon
+0571	Zoroark	Zoroark	Illusion Fox Pokémon	ばけぎつねポケモン	Illusory Fox Pokémon
+0571	Zoroark	Zoroark
+Hisuian Form	Baneful Fox Pokémon	のろいぎつねポケモン	Curse Fox Pokémon
+0572	Minccino	Minccino	Chinchilla Pokémon	チンチラポケモン	Chinchilla Pokémon
+0573	Cinccino	Cinccino	Scarf Pokémon	スカーフポケモン	Scarf Pokémon
+0574	Gothita	Gothita	Fixation Pokémon	ぎょうしポケモン	Stare Pokémon
+0575	Gothorita	Gothorita	Manipulate Pokémon	あやつりポケモン	Manipulation Pokémon
+0576	Gothitelle	Gothitelle	Astral Body Pokémon	てんたいポケモン	Heavenly Body Pokémon
+0577	Solosis	Solosis	Cell Pokémon	さいぼうポケモン	Cell Pokémon
+0578	Duosion	Duosion	Mitosis Pokémon	ぶんかつポケモン	Mitosis Pokémon
+0579	Reuniclus	Reuniclus	Multiplying Pokémon	ぞうふくポケモン	Amplification Pokémon
+0580	Ducklett	Ducklett	Water Bird Pokémon	みずどりポケモン	Waterfowl Pokémon
+0581	Swanna	Swanna	White Bird Pokémon	しらとりポケモン	Swan Pokémon
+0582	Vanillite	Vanillite	Fresh Snow Pokémon	しんせつポケモン	Fresh Snow Pokémon
+0583	Vanillish	Vanillish	Icy Snow Pokémon	ひょうせつポケモン	Ice and Snow Pokémon
+0584	Vanilluxe	Vanilluxe	Snowstorm Pokémon	ブリザードポケモン	Blizzard Pokémon
+0585	Deerling	Deerling	Season Pokémon	きせつポケモン	Seasonal Pokémon
+0586	Sawsbuck	Sawsbuck	Season Pokémon	きせつポケモン	Seasonal Pokémon
+0587	Emolga	Emolga	Sky Squirrel Pokémon	モモンガポケモン	Flying Squirrel Pokémon
+0588	Karrablast	Karrablast	Clamping Pokémon	かぶりつきポケモン	Bite Down Pokémon
+0589	Escavalier	Escavalier	Cavalry Pokémon	きへいポケモン	Cavalry Pokémon
+0590	Foongus	Foongus	Mushroom Pokémon	きのこポケモン	Mushroom Pokémon
+0591	Amoonguss	Amoonguss	Mushroom Pokémon	きのこポケモン	Mushroom Pokémon
+0592	Frillish	Frillish	Floating Pokémon	ふゆうポケモン	Floating Pokémon
+0593	Jellicent	Jellicent	Floating Pokémon	ふゆうポケモン	Floating Pokémon
+0594	Alomomola	Alomomola	Caring Pokémon	かいほうポケモン	Nursing Pokémon
+0595	Joltik	Joltik	Attaching Pokémon	くっつきポケモン	Clinging Pokémon
+0596	Galvantula	Galvantula	EleSpider Pokémon	でんきグモポケモン	Electric Spider Pokémon
+0597	Ferroseed	Ferroseed	Thorn Seed Pokémon	とげのみポケモン	Spike Seed Pokémon
+0598	Ferrothorn	Ferrothorn	Thorn Pod Pokémon	とげだまポケモン	Spike Ball Pokémon
+0599	Klink	Klink	Gear Pokémon	はぐるまポケモン	Gear Pokémon
+0600	Klang	Klang	Gear Pokémon	はぐるまポケモン	Gear Pokémon
+0601	Klinklang	Klinklang	Gear Pokémon	はぐるまポケモン	Gear Pokémon
+0602	Tynamo	Tynamo	EleFish Pokémon	でんきうおポケモン	Electric Fish Pokémon
+0603	Eelektrik	Eelektrik	EleFish Pokémon	でんきうおポケモン	Electric Fish Pokémon
+0604	Eelektross	Eelektross	EleFish Pokémon	でんきうおポケモン	Electric Fish Pokémon
+0605	Elgyem	Elgyem	Cerebral Pokémon	ブレインポケモン	Brain Pokémon
+0606	Beheeyem	Beheeyem	Cerebral Pokémon	ブレインポケモン	Brain Pokémon
+0607	Litwick	Litwick	Candle Pokémon	ろうそくポケモン	Candle Pokémon
+0608	Lampent	Lampent	Lamp Pokémon	ランプポケモン	Lamp Pokémon
+0609	Chandelure	Chandelure	Luring Pokémon	いざないポケモン	Temptation Pokémon
+0610	Axew	Axew	Tusk Pokémon	キバポケモン	Tusk Pokémon
+0611	Fraxure	Fraxure	Axe Jaw Pokémon	あごオノポケモン	Jaw Ax Pokémon
+0612	Haxorus	Haxorus	Axe Jaw Pokémon	あごオノポケモン	Jaw Ax Pokémon
+0613	Cubchoo	Cubchoo	Chill Pokémon	ひょうけつポケモン	Freezing Pokémon
+0614	Beartic	Beartic	Freezing Pokémon	とうけつポケモン	Frozen Pokémon
+0615	Cryogonal	Cryogonal	Crystallizing Pokémon	けっしょうポケモン	Crystal Pokémon
+0616	Shelmet	Shelmet	Snail Pokémon	マイマイポケモン	Snail Pokémon
+0617	Accelgor	Accelgor	Shell Out Pokémon	からぬけポケモン	Deshelled Pokémon
+0618	Stunfisk	Stunfisk	Trap Pokémon	トラップポケモン	Trap Pokémon
+0619	Mienfoo	Mienfoo	Martial Arts Pokémon	ぶじゅつポケモン	Martial Arts Pokémon
+0620	Mienshao	Mienshao	Martial Arts Pokémon	ぶじゅつポケモン	Martial Arts Pokémon
+0621	Druddigon	Druddigon	Cave Pokémon	ほらあなポケモン	Cave Pokémon
+0622	Golett	Golett	Automaton Pokémon	ゴーレムポケモン	Golem Pokémon
+0623	Golurk	Golurk	Automaton Pokémon	ゴーレムポケモン	Golem Pokémon
+0624	Pawniard	Pawniard	Sharp Blade Pokémon	はものポケモン	Sharp Edge Pokémon
+0625	Bisharp	Bisharp	Sword Blade Pokémon	とうじんポケモン	Sword Blade Pokémon
+0626	Bouffalant	Bouffalant	Bash Buffalo Pokémon	ずつきうしポケモン	Headbutt Bull Pokémon
+0627	Rufflet	Rufflet	Eaglet Pokémon	ヒナわしポケモン	Eaglet Pokémon
+0628	Braviary	Braviary	Valiant Pokémon	ゆうもうポケモン	Daring Pokémon
+0628	Braviary	Braviary
+Hisuian Form	Battle Cry Pokémon	おたけびポケモン	War Cry Pokémon
+0629	Vullaby	Vullaby	Diapered Pokémon	おむつポケモン	Diaper Pokémon
+0630	Mandibuzz	Mandibuzz	Bone Vulture Pokémon	ほねわしポケモン	Bone Eagle Pokémon
+0631	Heatmor	Heatmor	Anteater Pokémon	アリクイポケモン	Anteater Pokémon
+0632	Durant	Durant	Iron Ant Pokémon	てつアリポケモン	Iron Ant Pokémon
+0633	Deino	Deino	Irate Pokémon	そぼうポケモン	Wild Pokémon
+0634	Zweilous	Zweilous	Hostile Pokémon	らんぼうポケモン	Violent Pokémon
+0635	Hydreigon	Hydreigon	Brutal Pokémon	きょうぼうポケモン	Brutal Pokémon
+0636	Larvesta	Larvesta	Torch Pokémon	たいまつポケモン	Torch Pokémon
+0637	Volcarona	Volcarona	Sun Pokémon	たいようポケモン	Sun Pokémon
+0638	Cobalion	Cobalion	Iron Will Pokémon	てっしんポケモン	Iron Will Pokémon
+0639	Terrakion	Terrakion	Cavern Pokémon	がんくつポケモン	Cavern Pokémon
+0640	Virizion	Virizion	Grassland Pokémon	そうげんポケモン	Grassland Pokémon
+0641	Tornadus	Tornadus	Cyclone Pokémon	せんぷうポケモン	Whirlwind Pokémon
+0642	Thundurus	Thundurus	Bolt Strike Pokémon	らいげきポケモン	Lightning Strike Pokémon
+0643	Reshiram	Reshiram	Vast White Pokémon	はくようポケモン	White Yang Pokémon
+0644	Zekrom	Zekrom	Deep Black Pokémon	こくいんポケモン	Black Yin Pokémon
+0645	Landorus	Landorus	Abundance Pokémon	ほうじょうポケモン	Fertility Pokémon
+0646	Kyurem	Kyurem	Boundary Pokémon	きょうかいポケモン	Boundary Pokémon
+0647	Keldeo	Keldeo	Colt Pokémon	わかごまポケモン	Young Colt Pokémon
+0648	Meloetta	Meloetta	Melody Pokémon	せんりつポケモン	Melody Pokémon
+0649	Genesect	Genesect	Paleozoic Pokémon	こせいだいポケモン	Paleozoic Pokémon
+0650	Chespin	Chespin	Spiny Nut Pokémon	いがぐりポケモン	Shelled Chestnut Pokémon
+0651	Quilladin	Quilladin	Spiny Armor Pokémon	とげよろいポケモン	Spiky Armor Pokémon
+0652	Chesnaught	Chesnaught	Spiny Armor Pokémon	とげよろいポケモン	Spiky Armor Pokémon
+0653	Fennekin	Fennekin	Fox Pokémon	キツネポケモン	Fox Pokémon
+0654	Braixen	Braixen	Fox Pokémon	キツネポケモン	Fox Pokémon
+0655	Delphox	Delphox	Fox Pokémon	キツネポケモン	Fox Pokémon
+0656	Froakie	Froakie	Bubble Frog Pokémon	あわがえるポケモン	Foam Frog Pokémon
+0657	Frogadier	Frogadier	Bubble Frog Pokémon	あわがえるポケモン	Foam Frog Pokémon
+0658	Greninja	Greninja	Ninja Pokémon	しのびポケモン	Ninja Pokémon
+0659	Bunnelby	Bunnelby	Digging Pokémon	あなほりポケモン	Burrowing Pokémon
+0660	Diggersby	Diggersby	Digging Pokémon	あなほりポケモン	Burrowing Pokémon
+0661	Fletchling	Fletchling	Tiny Robin Pokémon	コマドリポケモン	Japanese Robin Pokémon
+0662	Fletchinder	Fletchinder	Ember Pokémon	ひのこポケモン	Sparks Pokémon
+0663	Talonflame	Talonflame	Scorching Pokémon	れっかポケモン	Raging Fire Pokémon
+0664	Scatterbug	Scatterbug	Scatterdust Pokémon	こなふきポケモン	Powder Blowing Pokémon
+0665	Spewpa	Spewpa	Scatterdust Pokémon	こなふきポケモン	Powder Blowing Pokémon
+0666	Vivillon	Vivillon	Scale Pokémon	りんぷんポケモン	Scale Pokémon
+0667	Litleo	Litleo	Lion Cub Pokémon	わかししポケモン	Young Lion Pokémon
+0668	Pyroar	Pyroar	Royal Pokémon	おうじゃポケモン	Monarch Pokémon
+0669	Flabébé	Flabébé	Single Bloom Pokémon	いちりんポケモン	Single Flower Pokémon
+0670	Floette	Floette	Single Bloom Pokémon	いちりんポケモン	Single Flower Pokémon
+0671	Florges	Florges	Garden Pokémon	ガーデンポケモン	Garden Pokémon
+0672	Skiddo	Skiddo	Mount Pokémon	ライドポケモン	Ride Pokémon
+0673	Gogoat	Gogoat	Mount Pokémon	ライドポケモン	Ride Pokémon
+0674	Pancham	Pancham	Playful Pokémon	やんちゃポケモン	Naughty Pokémon
+0675	Pangoro	Pangoro	Daunting Pokémon	こわもてポケモン	Aggressive Pokémon
+0676	Furfrou	Furfrou	Poodle Pokémon	プードルポケモン	Poodle Pokémon
+0677	Espurr	Espurr	Restraint Pokémon	じせいポケモン	Self-control Pokémon
+0678	Meowstic	Meowstic	Constraint Pokémon	よくせいポケモン	Restraint Pokémon
+0679	Honedge	Honedge	Sword Pokémon	とうけんポケモン	Sword Pokémon
+0680	Doublade	Doublade	Sword Pokémon	とうけんポケモン	Sword Pokémon
+0681	Aegislash	Aegislash	Royal Sword Pokémon	おうけんポケモン	Royal Sword Pokémon
+0682	Spritzee	Spritzee	Perfume Pokémon	こうすいポケモン	Perfume Pokémon
+0683	Aromatisse	Aromatisse	Fragrance Pokémon	ほうこうポケモン	Fragrance Pokémon
+0684	Swirlix	Swirlix	Cotton Candy Pokémon	わたあめポケモン	Cotton Candy Pokémon
+0685	Slurpuff	Slurpuff	Meringue Pokémon	ホイップポケモン	Whipped Cream Pokémon
+0686	Inkay	Inkay	Revolving Pokémon	かいてんポケモン	Rotation Pokémon
+0687	Malamar	Malamar	Overturning Pokémon	ぎゃくてんポケモン	Reversal Pokémon
+0688	Binacle	Binacle	Two-Handed Pokémon	ふたてポケモン	Two Groups Pokémon
+0689	Barbaracle	Barbaracle	Collective Pokémon	しゅうごうポケモン	Gathering Pokémon
+0690	Skrelp	Skrelp	Mock Kelp Pokémon	クサモドキポケモン	Pseudo Grass Pokémon
+0691	Dragalge	Dragalge	Mock Kelp Pokémon	クサモドキポケモン	Pseudo Grass Pokémon
+0692	Clauncher	Clauncher	Water Gun Pokémon	みずでっぽうポケモン	Water Gun Pokémon
+0693	Clawitzer	Clawitzer	Howitzer Pokémon	ランチャーポケモン	Launcher Pokémon
+0694	Helioptile	Helioptile	Generator Pokémon	はつでんポケモン	Generator Pokémon
+0695	Heliolisk	Heliolisk	Generator Pokémon	はつでんポケモン	Generator Pokémon
+0696	Tyrunt	Tyrunt	Royal Heir Pokémon	ようくんポケモン	Young Lord Pokémon
+0697	Tyrantrum	Tyrantrum	Despot Pokémon	ぼうくんポケモン	Tyrant Pokémon
+0698	Amaura	Amaura	Tundra Pokémon	ツンドラポケモン	Tundra Pokémon
+0699	Aurorus	Aurorus	Tundra Pokémon	ツンドラポケモン	Tundra Pokémon
+0700	Sylveon	Sylveon	Intertwining Pokémon	むすびつきポケモン	Association Pokémon
+0701	Hawlucha	Hawlucha	Wrestling Pokémon	レスリングポケモン	Wrestling Pokémon
+0702	Dedenne	Dedenne	Antenna Pokémon	アンテナポケモン	Antenna Pokémon
+0703	Carbink	Carbink	Jewel Pokémon	ほうせきポケモン	Jewel Pokémon
+0704	Goomy	Goomy	Soft Tissue Pokémon	なんたいポケモン	Soft Body Pokémon
+0705	Sliggoo	Sliggoo	Soft Tissue Pokémon	なんたいポケモン	Soft Body Pokémon
+0705	Sliggoo	Sliggoo
+Hisuian Form	Snail Pokémon	マイマイポケモン	Snail Pokémon
+0706	Goodra	Goodra	Dragon Pokémon	ドラゴンポケモン	Dragon Pokémon
+0706	Goodra	Goodra
+Hisuian Form	Shell Bunker Pokémon	からこもりポケモン	Shelled Pokémon
+0707	Klefki	Klefki	Key Ring Pokémon	かぎたばポケモン	Key Ring Pokémon
+0708	Phantump	Phantump	Stump Pokémon	きりかぶポケモン	Stump Pokémon
+0709	Trevenant	Trevenant	Elder Tree Pokémon	ろうぼくポケモン	Old Tree Pokémon
+0710	Pumpkaboo	Pumpkaboo	Pumpkin Pokémon	かぼちゃポケモン	Pumpkin Pokémon
+0711	Gourgeist	Gourgeist	Pumpkin Pokémon	かぼちゃポケモン	Pumpkin Pokémon
+0712	Bergmite	Bergmite	Ice Chunk Pokémon	ひょうかいポケモン	Ice Floe Pokémon
+0713	Avalugg	Avalugg	Iceberg Pokémon	ひょうざんポケモン	Iceberg Pokémon
+0714	Noibat	Noibat	Sound Wave Pokémon	おんぱポケモン	Sound Wave Pokémon
+0715	Noivern	Noivern	Sound Wave Pokémon	おんぱポケモン	Sound Wave Pokémon
+0716	Xerneas	Xerneas	Life Pokémon	せいめいポケモン	Life Pokémon
+0717	Yveltal	Yveltal	Destruction Pokémon	はかいポケモン	Destruction Pokémon
+0718	Zygarde	Zygarde	Order Pokémon	ちつじょポケモン	Order Pokémon
+0719	Diancie	Diancie	Jewel Pokémon	ほうせきポケモン	Jewel Pokémon
+0720	Hoopa	Hoopa
+Hoopa Confined	Mischief Pokémon	いたずらポケモン	Mischief Pokémon
+0720	Hoopa	Hoopa
+Hoopa Unbound	Djinn Pokémon	まじんポケモン	Majin Pokémon
+0721	Volcanion	Volcanion	Steam Pokémon	スチームポケモン	Steam Pokémon
+0722	Rowlet	Rowlet	Grass Quill Pokémon	くさばねポケモン	Grass Feather Pokémon
+0723	Dartrix	Dartrix	Blade Quill Pokémon	はばねポケモン	Blade Feather Pokémon
+0724	Decidueye	Decidueye	Arrow Quill Pokémon	やばねポケモン	Arrow Feather Pokémon
+0725	Litten	Litten	Fire Cat Pokémon	ひねこポケモン	Fire Cat Pokémon
+0726	Torracat	Torracat	Fire Cat Pokémon	ひねこポケモン	Fire Cat Pokémon
+0727	Incineroar	Incineroar	Heel Pokémon	ヒールポケモン	Heel Pokémon
+0728	Popplio	Popplio	Sea Lion Pokémon	あしかポケモン	Sea Lion Pokémon
+0729	Brionne	Brionne	Pop Star Pokémon	アイドルポケモン	Idol Pokémon
+0730	Primarina	Primarina	Soloist Pokémon	ソリストポケモン	Soloist Pokémon
+0731	Pikipek	Pikipek	Woodpecker Pokémon	きつつきポケモン	Woodpecker Pokémon
+0732	Trumbeak	Trumbeak	Bugle Beak Pokémon	ラッパぐちポケモン	Bugle Beak Pokémon
+0733	Toucannon	Toucannon	Cannon Pokémon	おおづつポケモン	Cannon Pokémon
+0734	Yungoos	Yungoos	Loitering Pokémon	うろつきポケモン	Prowling Pokémon
+0735	Gumshoos	Gumshoos	Stakeout Pokémon	はりこみポケモン	Stakeout Pokémon
+0736	Grubbin	Grubbin	Larva Pokémon	ようちゅうポケモン	Larva Pokémon
+0737	Charjabug	Charjabug	Battery Pokémon	バッテリーポケモン	Battery Pokémon
+0738	Vikavolt	Vikavolt	Stag Beetle Pokémon	くわがたポケモン	Stag Beetle Pokémon
+0739	Crabrawler	Crabrawler	Boxing Pokémon	けんとうポケモン	Boxing Pokémon
+0740	Crabominable	Crabominable	Woolly Crab Pokémon	けがにポケモン	Horsehair Crab Pokémon
+0741	Oricorio	Oricorio	Dancing Pokémon	ダンスポケモン	Dance Pokémon
+0742	Cutiefly	Cutiefly	Bee Fly Pokémon	ツリアブポケモン	Bee Fly Pokémon
+0743	Ribombee	Ribombee	Bee Fly Pokémon	ツリアブポケモン	Bee Fly Pokémon
+0744	Rockruff	Rockruff	Puppy Pokémon	こいぬポケモン	Puppy Pokémon
+0745	Lycanroc	Lycanroc	Wolf Pokémon	オオカミポケモン	Wolf Pokémon
+0746	Wishiwashi	Wishiwashi	Small Fry Pokémon	こざかなポケモン	Small Fish Pokémon
+0747	Mareanie	Mareanie	Brutal Star Pokémon	ヒトデナシポケモン	Brute Pokémon
+0748	Toxapex	Toxapex	Brutal Star Pokémon	ヒトデナシポケモン	Brute Pokémon
+0749	Mudbray	Mudbray	Donkey Pokémon	うさぎうまポケモン	Donkey Pokémon
+0750	Mudsdale	Mudsdale	Draft Horse Pokémon	ばんばポケモン	Draft Horse Pokémon
+0751	Dewpider	Dewpider	Water Bubble Pokémon	すいほうポケモン	Water Bubble Pokémon
+0752	Araquanid	Araquanid	Water Bubble Pokémon	すいほうポケモン	Water Bubble Pokémon
+0753	Fomantis	Fomantis	Sickle Grass Pokémon	かまくさポケモン	Sickle Grass Pokémon
+0754	Lurantis	Lurantis	Bloom Sickle Pokémon	はなかまポケモン	Flower Sickle Pokémon
+0755	Morelull	Morelull	Illuminating Pokémon	はっこうポケモン	Luminescence Pokémon
+0756	Shiinotic	Shiinotic	Illuminating Pokémon	はっこうポケモン	Luminescence Pokémon
+0757	Salandit	Salandit	Toxic Lizard Pokémon	どくトカゲポケモン	Poison Lizard Pokémon
+0758	Salazzle	Salazzle	Toxic Lizard Pokémon	どくトカゲポケモン	Poison Lizard Pokémon
+0759	Stufful	Stufful	Flailing Pokémon	じたばたポケモン	Flailing Pokémon
+0760	Bewear	Bewear	Strong Arm Pokémon	ごうわんポケモン	Strong Arm Pokémon
+0761	Bounsweet	Bounsweet	Fruit Pokémon	フルーツポケモン	Fruit Pokémon
+0762	Steenee	Steenee	Fruit Pokémon	フルーツポケモン	Fruit Pokémon
+0763	Tsareena	Tsareena	Fruit Pokémon	フルーツポケモン	Fruit Pokémon
+0764	Comfey	Comfey	Posy Picker Pokémon	はなつみポケモン	Flower Picker Pokémon
+0765	Oranguru	Oranguru	Sage Pokémon	けんじゃポケモン	Sage Pokémon
+0766	Passimian	Passimian	Teamwork Pokémon	れんけいポケモン	Cooperation Pokémon
+0767	Wimpod	Wimpod	Turn Tail Pokémon	そうこうポケモン	Bustling Pokémon
+0768	Golisopod	Golisopod	Hard Scale Pokémon	そうこうポケモン	Armored Pokémon
+0769	Sandygast	Sandygast	Sand Heap Pokémon	すなやまポケモン	Sand Pile Pokémon
+0770	Palossand	Palossand	Sand Castle Pokémon	すなのしろポケモン	Sand Castle Pokémon
+0771	Pyukumuku	Pyukumuku	Sea Cucumber Pokémon	なまこポケモン	Sea Cucumber Pokémon
+0772	Type: Null	Type: Null	Synthetic Pokémon	じんこうポケモン	Man-made Pokémon
+0773	Silvally	Silvally	Synthetic Pokémon	じんこうポケモン	Man-made Pokémon
+0774	Minior	Minior	Meteor Pokémon	ながれぼしポケモン	Meteor Pokémon
+0775	Komala	Komala	Drowsing Pokémon	ゆめうつつポケモン	Trance Pokémon
+0776	Turtonator	Turtonator	Blast Turtle Pokémon	ばくはつがめポケモン	Explosion Turtle Pokémon
+0777	Togedemaru	Togedemaru	Roly-Poly Pokémon	まるまりポケモン	Circle Ball Pokémon
+0778	Mimikyu	Mimikyu	Disguise Pokémon	ばけのかわポケモン	Disguise Pokémon
+0779	Bruxish	Bruxish	Gnash Teeth Pokémon	はぎしりポケモン	Bruxism Pokémon
+0780	Drampa	Drampa	Placid Pokémon	ゆうゆうポケモン	Calm Pokémon
+0781	Dhelmise	Dhelmise	Sea Creeper Pokémon	もくずポケモン	Seaweed Pokémon
+0782	Jangmo-o	Jangmo-o	Scaly Pokémon	うろこポケモン	Scale Pokémon
+0783	Hakamo-o	Hakamo-o	Scaly Pokémon	うろこポケモン	Scale Pokémon
+0784	Kommo-o	Kommo-o	Scaly Pokémon	うろこポケモン	Scale Pokémon
+0785	Tapu Koko	Tapu Koko	Land Spirit Pokémon	とちがみポケモン	Land Spirit Pokémon
+0786	Tapu Lele	Tapu Lele	Land Spirit Pokémon	とちがみポケモン	Land Spirit Pokémon
+0787	Tapu Bulu	Tapu Bulu	Land Spirit Pokémon	とちがみポケモン	Land Spirit Pokémon
+0788	Tapu Fini	Tapu Fini	Land Spirit Pokémon	とちがみポケモン	Land Spirit Pokémon
+0789	Cosmog	Cosmog	Nebula Pokémon	せいうんポケモン	Nebula Pokémon
+0790	Cosmoem	Cosmoem	Protostar Pokémon	げんしせいポケモン	Protostar Pokémon
+0791	Solgaleo	Solgaleo	Sunne Pokémon	にちりんポケモン	Sun Pokémon
+0792	Lunala	Lunala	Moone Pokémon	がちりんポケモン	Moon Pokémon
+0793	Nihilego	Nihilego	Parasite Pokémon	きせいポケモン	Parasite Pokémon
+0794	Buzzwole	Buzzwole	Swollen Pokémon	ぼうちょうポケモン	Swollen Pokémon
+0795	Pheromosa	Pheromosa	Lissome Pokémon	えんびポケモン	Beauty Pokémon
+0796	Xurkitree	Xurkitree	Glowing Pokémon	でんしょくポケモン	Glowing Pokémon
+0797	Celesteela	Celesteela	Launch Pokémon	うちあげポケモン	Launch Pokémon
+0798	Kartana	Kartana	Drawn Sword Pokémon	ばっとうポケモン	Drawn Sword Pokémon
+0799	Guzzlord	Guzzlord	Junkivore Pokémon	あくじきポケモン	Allotriophage Pokémon
+0800	Necrozma	Necrozma	Prism Pokémon	プリズムポケモン	Prism Pokémon
+0801	Magearna	Magearna	Artificial Pokémon	じんぞうポケモン	Artificial Pokémon
+0802	Marshadow	Marshadow	Gloomdweller Pokémon	かげすみポケモン	Shadow Dweller Pokémon
+0803	Poipole	Poipole	Poison Pin Pokémon	どくばりポケモン	Poison Pin Pokémon
+0804	Naganadel	Naganadel	Poison Pin Pokémon	どくばりポケモン	Poison Pin Pokémon
+0805	Stakataka	Stakataka	Rampart Pokémon	いしがきポケモン	Stone Wall Pokémon
+0806	Blacephalon	Blacephalon	Fireworks Pokémon	はなびポケモン	Fireworks Pokémon
+0807	Zeraora	Zeraora	Thunderclap Pokémon	じんらいポケモン	Thunderclap Pokémon
+0808	Meltan	Meltan	Hex Nut Pokémon	ナットポケモン	Nut Pokémon
+0809	Melmetal	Melmetal	Hex Nut Pokémon	ナットポケモン	Nut Pokémon
+0810	Grookey	Grookey	Chimp Pokémon	こざるポケモン	Small Monkey Pokémon
+0811	Thwackey	Thwackey	Beat Pokémon	ビートポケモン	Beat Pokémon
+0812	Rillaboom	Rillaboom	Drummer Pokémon	ドラマーポケモン	Drummer Pokémon
+0813	Scorbunny	Scorbunny	Rabbit Pokémon	うさぎポケモン	Rabbit Pokémon
+0814	Raboot	Raboot	Rabbit Pokémon	うさぎポケモン	Rabbit Pokémon
+0815	Cinderace	Cinderace	Striker Pokémon	ストライカーポケモン	Striker Pokémon
+0816	Sobble	Sobble	Water Lizard Pokémon	みずとかげポケモン	Water Lizard Pokémon
+0817	Drizzile	Drizzile	Water Lizard Pokémon	みずとかげポケモン	Water Lizard Pokémon
+0818	Inteleon	Inteleon	Secret Agent Pokémon	エージェントポケモン	Agent Pokémon
+0819	Skwovet	Skwovet	Cheeky Pokémon	ほおばりポケモン	Stuffed Cheeks Pokémon
+0820	Greedent	Greedent	Greedy Pokémon	よくばりポケモン	Greedy Pokémon
+0821	Rookidee	Rookidee	Tiny Bird Pokémon	ことりポケモン	Tiny Bird Pokémon
+0822	Corvisquire	Corvisquire	Raven Pokémon	カラスポケモン	Raven Pokémon
+0823	Corviknight	Corviknight	Raven Pokémon	カラスポケモン	Raven Pokémon
+0824	Blipbug	Blipbug	Larva Pokémon	ようちゅうポケモン	Larva Pokémon
+0825	Dottler	Dottler	Radome Pokémon	レドームポケモン	Radome Pokémon
+0826	Orbeetle	Orbeetle	Seven Spot Pokémon	ななほしポケモン	Seven Spot Pokémon
+0827	Nickit	Nickit	Fox Pokémon	きつねポケモン	Fox Pokémon
+0828	Thievul	Thievul	Fox Pokémon	きつねポケモン	Fox Pokémon
+0829	Gossifleur	Gossifleur	Flowering Pokémon	はなかざりポケモン	Flower Decoration Pokémon
+0830	Eldegoss	Eldegoss	Cotton Bloom Pokémon	わたかざりポケモン	Cotton Decoration Pokémon
+0831	Wooloo	Wooloo	Sheep Pokémon	ひつじポケモン	Sheep Pokémon
+0832	Dubwool	Dubwool	Sheep Pokémon	ひつじポケモン	Sheep Pokémon
+0833	Chewtle	Chewtle	Snapping Pokémon	くいつきポケモン	Snapping Pokémon
+0834	Drednaw	Drednaw	Bite Pokémon	かみつきポケモン	Bite Pokémon
+0835	Yamper	Yamper	Puppy Pokémon	こいぬポケモン	Puppy Pokémon
+0836	Boltund	Boltund	Dog Pokémon	いぬポケモン	Dog Pokémon
+0837	Rolycoly	Rolycoly	Coal Pokémon	せきたんポケモン	Coal Pokémon
+0838	Carkol	Carkol	Coal Pokémon	せきたんポケモン	Coal Pokémon
+0839	Coalossal	Coalossal	Coal Pokémon	せきたんポケモン	Coal Pokémon
+0840	Applin	Applin	Apple Core Pokémon	りんごぐらしポケモン	Apple Living Pokémon
+0841	Flapple	Flapple	Apple Wing Pokémon	りんごはねポケモン	Apple Wing Pokémon
+0842	Appletun	Appletun	Apple Nectar Pokémon	りんごじるポケモン	Apple Juice Pokémon
+0843	Silicobra	Silicobra	Sand Snake Pokémon	すなへびポケモン	Sand Snake Pokémon
+0844	Sandaconda	Sandaconda	Sand Snake Pokémon	すなへびポケモン	Sand Snake Pokémon
+0845	Cramorant	Cramorant	Gulp Pokémon	うのみポケモン	Gulp Pokémon
+0846	Arrokuda	Arrokuda	Rush Pokémon	とつげきポケモン	Rush Pokémon
+0847	Barraskewda	Barraskewda	Skewer Pokémon	くしざしポケモン	Skewer Pokémon
+0848	Toxel	Toxel	Baby Pokémon	あかごポケモン	Baby Pokémon
+0849	Toxtricity	Toxtricity	Punk Pokémon	パンクポケモン	Punk Pokémon
+0850	Sizzlipede	Sizzlipede	Radiator Pokémon	はつねつポケモン	Heat Generation Pokémon
+0851	Centiskorch	Centiskorch	Radiator Pokémon	はつねつポケモン	Heat Generation Pokémon
+0852	Clobbopus	Clobbopus	Tantrum Pokémon	だだっこポケモン	Spoiled Pokémon
+0853	Grapploct	Grapploct	Jujitsu Pokémon	じゅうじゅつポケモン	Jujutsu Pokémon
+0854	Sinistea	Sinistea	Black Tea Pokémon	こうちゃポケモン	Black Tea Pokémon
+0855	Polteageist	Polteageist	Black Tea Pokémon	こうちゃポケモン	Black Tea Pokémon
+0856	Hatenna	Hatenna	Calm Pokémon	おだやかポケモン	Calm Pokémon
+0857	Hattrem	Hattrem	Serene Pokémon	せいしゅくポケモン	Quiet Pokémon
+0858	Hatterene	Hatterene	Silent Pokémon	せいじゃくポケモン	Silent Pokémon
+0859	Impidimp	Impidimp	Wily Pokémon	いじわるポケモン	Malicious Pokémon
+0860	Morgrem	Morgrem	Devious Pokémon	しょうわるポケモン	Ill-Natured Pokémon
+0861	Grimmsnarl	Grimmsnarl	Bulk Up Pokémon	ビルドアップポケモン	Buildup Pokémon
+0862	Obstagoon	Obstagoon	Blocking Pokémon	ていしポケモン	Blocking Pokémon
+0863	Perrserker	Perrserker	Viking Pokémon	バイキングポケモン	Viking Pokémon
+0864	Cursola	Cursola	Coral Pokémon	さんごポケモン	Coral Pokémon
+0865	Sirfetch'd	Sirfetch'd	Wild Duck Pokémon	かるがもポケモン	Spot-Billed Duck Pokémon
+0866	Mr. Rime	Mr. Rime	Comedian Pokémon	コメディアンポケモン	Comedian Pokémon
+0867	Runerigus	Runerigus	Grudge Pokémon	おんねんポケモン	Grudge Pokémon
+0868	Milcery	Milcery	Cream Pokémon	クリームポケモン	Cream Pokémon
+0869	Alcremie	Alcremie	Cream Pokémon	クリームポケモン	Cream Pokémon
+0870	Falinks	Falinks	Formation Pokémon	じんけいポケモン	Battle Formation Pokémon
+0871	Pincurchin	Pincurchin	Sea Urchin Pokémon	うにポケモン	Sea Urchin Pokémon
+0872	Snom	Snom	Worm Pokémon	いもむしポケモン	Caterpillar Pokémon
+0873	Frosmoth	Frosmoth	Frost Moth Pokémon	こおりがポケモン	Ice Moth Pokémon
+0874	Stonjourner	Stonjourner	Big Rock Pokémon	きょせきポケモン	Megalith Pokémon
+0875	Eiscue	Eiscue	Penguin Pokémon	ペンギンポケモン	Penguin Pokémon
+0876	Indeedee	Indeedee	Emotion Pokémon	かんじょうポケモン	Emotion Pokémon
+0877	Morpeko	Morpeko	Two-Sided Pokémon	にめんポケモン	Two-Faced Pokémon
+0878	Cufant	Cufant	Copperderm Pokémon	どうぞうポケモン	Bronze Statue Pokémon
+0879	Copperajah	Copperajah	Copperderm Pokémon	どうぞうポケモン	Bronze Statue Pokémon
+0880	Dracozolt	Dracozolt	Fossil Pokémon	かせきポケモン	Fossil Pokémon
+0881	Arctozolt	Arctozolt	Fossil Pokémon	かせきポケモン	Fossil Pokémon
+0882	Dracovish	Dracovish	Fossil Pokémon	かせきポケモン	Fossil Pokémon
+0883	Arctovish	Arctovish	Fossil Pokémon	かせきポケモン	Fossil Pokémon
+0884	Duraludon	Duraludon	Alloy Pokémon	ごうきんポケモン	Alloy Pokémon
+0885	Dreepy	Dreepy	Lingering Pokémon	うらめしポケモン	Reproachful Pokémon
+0886	Drakloak	Drakloak	Caretaker Pokémon	せわやくポケモン	Caretaker Pokémon
+0887	Dragapult	Dragapult	Stealth Pokémon	ステルスポケモン	Stealth Pokémon
+0888	Zacian	Zacian	Warrior Pokémon	つわものポケモン	Warrior Pokémon
+0889	Zamazenta	Zamazenta	Warrior Pokémon	つわものポケモン	Warrior Pokémon
+0890	Eternatus	Eternatus	Gigantic Pokémon	キョダイポケモン	Gigantic Pokémon
+0891	Kubfu	Kubfu	Wushu Pokémon	けんぽうポケモン	Kenpo Pokémon
+0892	Urshifu	Urshifu	Wushu Pokémon	けんぽうポケモン	Kenpo Pokémon
+0893	Zarude	Zarude	Rogue Monkey Pokémon	わるざるポケモン	Bad Monkey Pokémon
+0894	Regieleki	Regieleki	Electron Pokémon	エレクトロンポケモン	Electron Pokémon
+0895	Regidrago	Regidrago	Dragon Orb Pokémon	りゅうぎょくポケモン	Dragon Ball Pokémon
+0896	Glastrier	Glastrier	Wild Horse Pokémon	あばれうまポケモン	Rampage Horse Pokémon
+0897	Spectrier	Spectrier	Swift Horse Pokémon	しゅんばポケモン	Swift Horse Pokémon
+0898	Calyrex	Calyrex	King Pokémon	キングポケモン	King Pokémon
+0898	Calyrex	Calyrex
+Ice Rider	High King Pokémon	エンペラーポケモン	Emperor Pokémon
+0898	Calyrex	Calyrex
+Shadow Rider	High King Pokémon	エンペラーポケモン	Emperor Pokémon
+0899	Wyrdeer	Wyrdeer	Big Horn Pokémon	おおツノポケモン	Big Horn Pokémon
+0900	Kleavor	Kleavor	Axe Pokémon	まさかりポケモン	Broadaxe Pokémon
+0901	Ursaluna	Ursaluna	Peat Pokémon	でいたんポケモン	Peat Pokémon
+0902	Basculegion	Basculegion	Big Fish Pokémon	おおうおポケモン	Big Fish Pokémon
+0903	Sneasler	Sneasler	Free Climb Pokémon	クライミングポケモン	Climbing Pokémon
+0904	Overqwil	Overqwil	Pin Cluster Pokémon	けんざんポケモン	Kenzan Pokémon
+0905	Enamorus	Enamorus	Love-Hate Pokémon	あいぞうポケモン	Love-Hate Pokémon
+0906	Sprigatito	Sprigatito	Grass Cat Pokémon	くさねこポケモン	Grass Cat Pokémon
+0907	Floragato	Floragato	Grass Cat Pokémon	くさねこポケモン	Grass Cat Pokémon
+0908	Meowscarada	Meowscarada	Magician Pokémon	マジシャンポケモン	Magician Pokémon
+0909	Fuecoco	Fuecoco	Fire Croc Pokémon	ほのおワニポケモン	Flame Crocodile Pokémon
+0910	Crocalor	Crocalor	Fire Croc Pokémon	ほのおワニポケモン	Flame Crocodile Pokémon
+0911	Skeledirge	Skeledirge	Singer Pokémon	シンガーポケモン	Singer Pokémon
+0912	Quaxly	Quaxly	Duckling Pokémon	こがもポケモン	Duckling Pokémon
+0913	Quaxwell	Quaxwell	Practicing Pokémon	レッスンポケモン	Lesson Pokémon
+0914	Quaquaval	Quaquaval	Dancer Pokémon	ダンサーポケモン	Dancer Pokémon
+0915	Lechonk	Lechonk	Hog Pokémon	ぶたポケモン	Pig Pokémon
+0916	Oinkologne	Oinkologne	Hog Pokémon	ぶたポケモン	Pig Pokémon
+0917	Tarountula	Tarountula	String Ball Pokémon	いとだまポケモン	String Ball Pokémon
+0918	Spidops	Spidops	Trap Pokémon	トラップポケモン	Trap Pokémon
+0919	Nymble	Nymble	Grasshopper Pokémon	バッタポケモン	Grasshopper Pokémon
+0920	Lokix	Lokix	Grasshopper Pokémon	バッタポケモン	Grasshopper Pokémon
+0921	Pawmi	Pawmi	Mouse Pokémon	ねずみポケモン	Mouse Pokémon
+0922	Pawmo	Pawmo	Mouse Pokémon	ねずみポケモン	Mouse Pokémon
+0923	Pawmot	Pawmot	Hands-On Pokémon	てあてポケモン	Treatment Pokémon
+0924	Tandemaus	Tandemaus	Couple Pokémon	カップルポケモン	Couple Pokémon
+0925	Maushold	Maushold	Family Pokémon	ファミリーポケモン	Family Pokémon
+0926	Fidough	Fidough	Puppy Pokémon	こいぬポケモン	Puppy Pokémon
+0927	Dachsbun	Dachsbun	Dog Pokémon	いぬポケモン	Dog Pokémon
+0928	Smoliv	Smoliv	Olive Pokémon	オリーブポケモン	Olive Pokémon
+0929	Dolliv	Dolliv	Olive Pokémon	オリーブポケモン	Olive Pokémon
+0930	Arboliva	Arboliva	Olive Pokémon	オリーブポケモン	Olive Pokémon
+0931	Squawkabilly	Squawkabilly	Parrot Pokémon	インコポケモン	Parrot Pokémon
+0932	Nacli	Nacli	Rock Salt Pokémon	がんえんポケモン	Rock Salt Pokémon
+0933	Naclstack	Naclstack	Rock Salt Pokémon	がんえんポケモン	Rock Salt Pokémon
+0934	Garganacl	Garganacl	Rock Salt Pokémon	がんえんポケモン	Rock Salt Pokémon
+0935	Charcadet	Charcadet	Fire Child Pokémon	ひのこポケモン	Sparks Pokémon
+0936	Armarouge	Armarouge	Fire Warrior Pokémon	ひのせんしポケモン	Fire Warrior Pokémon
+0937	Ceruledge	Ceruledge	Fire Blades Pokémon	ひのけんしポケモン	Fire Swordsman Pokémon
+0938	Tadbulb	Tadbulb	EleTadpole Pokémon	でんきおたまポケモン	Electric Tadpole Pokémon
+0939	Bellibolt	Bellibolt	EleFrog Pokémon	でんきがえるポケモン	Electric Frog Pokémon
+0940	Wattrel	Wattrel	Storm Petrel Pokémon	うみつばめポケモン	Northern Storm Petrel Pokémon
+0941	Kilowattrel	Kilowattrel	Frigatebird Pokémon	ぐんかんどりポケモン	Frigatebird Pokémon
+0942	Maschiff	Maschiff	Rascal Pokémon	わかぞうポケモン	Youngster Pokémon
+0943	Mabosstiff	Mabosstiff	Boss Pokémon	おやぶんポケモン	Boss Pokémon
+0944	Shroodle	Shroodle	Toxic Mouse Pokémon	どくねずみポケモン	Toxic Mouse Pokémon
+0945	Grafaiai	Grafaiai	Toxic Monkey Pokémon	どくざるポケモン	Toxic Monkey Pokémon
+0946	Bramblin	Bramblin	Tumbleweed Pokémon	ころがりぐさポケモン	Tumbleweed Pokémon
+0947	Brambleghast	Brambleghast	Tumbleweed Pokémon	ころがりぐさポケモン	Tumbleweed Pokémon
+0948	Toedscool	Toedscool	Woodear Pokémon	きくらげポケモン	Woodear Pokémon
+0949	Toedscruel	Toedscruel	Woodear Pokémon	きくらげポケモン	Woodear Pokémon
+0950	Klawf	Klawf	Ambush Pokémon	まちぶせポケモン	Ambush Pokémon
+0951	Capsakid	Capsakid	Spicy Pepper Pokémon	ハバネロポケモン	Habanero Pokémon
+0952	Scovillain	Scovillain	Spicy Pepper Pokémon	ハバネロポケモン	Habanero Pokémon
+0953	Rellor	Rellor	Rolling Pokémon	ころがしポケモン	Rolling Pokémon
+0954	Rabsca	Rabsca	Rolling Pokémon	ころがしポケモン	Rolling Pokémon
+0955	Flittle	Flittle	Frill Pokémon	フリルポケモン	Frill Pokémon
+0956	Espathra	Espathra	Ostrich Pokémon	ダチョウポケモン	Ostrich Pokémon
+0957	Tinkatink	Tinkatink	Metalsmith Pokémon	かなうちポケモン	Blacksmith Pokémon
+0958	Tinkatuff	Tinkatuff	Hammer Pokémon	ハンマーポケモン	Hammer Pokémon
+0959	Tinkaton	Tinkaton	Hammer Pokémon	ハンマーポケモン	Hammer Pokémon
+0960	Wiglett	Wiglett	Garden Eel Pokémon	あなごポケモン	Conger Eel Pokémon
+0961	Wugtrio	Wugtrio	Garden Eel Pokémon	あなごポケモン	Conger Eel Pokémon
+0962	Bombirdier	Bombirdier	Item Drop Pokémon	おとしものポケモン	Dropped Item Pokémon
+0963	Finizen	Finizen	Dolphin Pokémon	イルカポケモン	Dolphin Pokémon
+0964	Palafin	Palafin
+Zero Form	Dolphin Pokémon	イルカポケモン	Dolphin Pokémon
+0964	Palafin	Palafin
+Hero Form	Hero Pokémon	ヒーローポケモン	Hero Pokémon
+0965	Varoom	Varoom	Single-Cyl Pokémon	たんきとうポケモン	Single-Cylinder Pokémon
+0966	Revavroom	Revavroom	Multi-Cyl Pokémon	たきとうポケモン	Multi-Cylinder Pokémon
+0967	Cyclizar	Cyclizar	Mount Pokémon	ライドポケモン	Ride Pokémon
+0968	Orthworm	Orthworm	Earthworm Pokémon	ミミズポケモン	Earthworm Pokémon
+0969	Glimmet	Glimmet	Ore Pokémon	こうせきポケモン	Ore Pokémon
+0970	Glimmora	Glimmora	Ore Pokémon	こうせきポケモン	Ore Pokémon
+0971	Greavard	Greavard	Ghost Dog Pokémon	おばけいぬポケモン	Ghost Dog Pokémon
+0972	Houndstone	Houndstone	Ghost Dog Pokémon	おばけいぬポケモン	Ghost Dog Pokémon
+0973	Flamigo	Flamigo	Synchronize Pokémon	シンクロポケモン	Synchro Pokémon
+0974	Cetoddle	Cetoddle	Terra Whale Pokémon	りくくじらポケモン	Land Whale Pokémon
+0975	Cetitan	Cetitan	Terra Whale Pokémon	りくくじらポケモン	Land Whale Pokémon
+0976	Veluza	Veluza	Jettison Pokémon	きりはなしポケモン	Detachment Pokémon
+0977	Dondozo	Dondozo	Big Catfish Pokémon	おおなまずポケモン	Big Catfish Pokémon
+0978	Tatsugiri	Tatsugiri	Mimicry Pokémon	ぎたいポケモン	Mimicry Pokémon
+0979	Annihilape	Annihilape	Rage Monkey Pokémon	ふんどざるポケモン	Rage Monkey Pokémon
+0980	Clodsire	Clodsire	Spiny Fish Pokémon	とげうおポケモン	Spiny Fish Pokémon
+0981	Farigiraf	Farigiraf	Long Neck Pokémon	くびながポケモン	Long Neck Pokémon
+0982	Dudunsparce	Dudunsparce	Land Snake Pokémon	つちへびポケモン	Land Snake Pokémon
+0983	Kingambit	Kingambit	Big Blade Pokémon	だいとうポケモン	Big Blade Pokémon
+0984	Great Tusk	Great Tusk	Paradox Pokémon	パラドックスポケモン	Paradox Pokémon
+0985	Scream Tail	Scream Tail	Paradox Pokémon	パラドックスポケモン	Paradox Pokémon
+0986	Brute Bonnet	Brute Bonnet	Paradox Pokémon	パラドックスポケモン	Paradox Pokémon
+0987	Flutter Mane	Flutter Mane	Paradox Pokémon	パラドックスポケモン	Paradox Pokémon
+0988	Slither Wing	Slither Wing	Paradox Pokémon	パラドックスポケモン	Paradox Pokémon
+0989	Sandy Shocks	Sandy Shocks	Paradox Pokémon	パラドックスポケモン	Paradox Pokémon
+0990	Iron Treads	Iron Treads	Paradox Pokémon	パラドックスポケモン	Paradox Pokémon
+0991	Iron Bundle	Iron Bundle	Paradox Pokémon	パラドックスポケモン	Paradox Pokémon
+0992	Iron Hands	Iron Hands	Paradox Pokémon	パラドックスポケモン	Paradox Pokémon
+0993	Iron Jugulis	Iron Jugulis	Paradox Pokémon	パラドックスポケモン	Paradox Pokémon
+0994	Iron Moth	Iron Moth	Paradox Pokémon	パラドックスポケモン	Paradox Pokémon
+0995	Iron Thorns	Iron Thorns	Paradox Pokémon	パラドックスポケモン	Paradox Pokémon
+0996	Frigibax	Frigibax	Ice Fin Pokémon	こおりビレポケモン	Ice Fin Pokémon
+0997	Arctibax	Arctibax	Ice Fin Pokémon	こおりビレポケモン	Ice Fin Pokémon
+0998	Baxcalibur	Baxcalibur	Ice Dragon Pokémon	ひょうりゅうポケモン	Ice Dragon Pokémon
+0999	Gimmighoul	Gimmighoul
+Chest Form	Coin Chest Pokémon	たからばこポケモン	Treasure Chest Pokémon
+0999	Gimmighoul	Gimmighoul
+Roaming Form	Coin Hunter Pokémon	たからさがしポケモン	Treasure Hunting Pokémon
+1000	Gholdengo	Gholdengo	Coin Entity Pokémon	たからものポケモン	Treasure Pokémon
+1001	Wo-Chien	Wo-Chien	Ruinous Pokémon	さいやくポケモン	Calamity Pokémon
+1002	Chien-Pao	Chien-Pao	Ruinous Pokémon	さいやくポケモン	Calamity Pokémon
+1003	Ting-Lu	Ting-Lu	Ruinous Pokémon	さいやくポケモン	Calamity Pokémon
+1004	Chi-Yu	Chi-Yu	Ruinous Pokémon	さいやくポケモン	Calamity Pokémon
+1005	Roaring Moon	Roaring Moon	Paradox Pokémon	パラドックスポケモン	Paradox Pokémon
+1006	Iron Valiant	Iron Valiant	Paradox Pokémon	パラドックスポケモン	Paradox Pokémon
+1007	Koraidon	Koraidon	Paradox Pokémon	パラドックスポケモン	Paradox Pokémon
+1008	Miraidon	Miraidon	Paradox Pokémon	パラドックスポケモン	Paradox Pokémon
+1009	Walking Wake	Walking Wake	Paradox Pokémon	パラドックスポケモン	Paradox Pokémon
+1010	Iron Leaves	Iron Leaves	Paradox Pokémon	パラドックスポケモン	Paradox Pokémon
+1011	Dipplin	Dipplin	Candy Apple Pokémon	りんごあめポケモン	Candy Apple Pokémon
+1012	Poltchageist	Poltchageist	Matcha Pokémon	まっちゃポケモン	Matcha Pokémon
+1013	Sinistcha	Sinistcha	Matcha Pokémon	まっちゃポケモン	Matcha Pokémon
+1014	Okidogi	Okidogi	Retainer Pokémon	けらいポケモン	Retainer Pokémon
+1015	Munkidori	Munkidori	Retainer Pokémon	けらいポケモン	Retainer Pokémon
+1016	Fezandipiti	Fezandipiti	Retainer Pokémon	けらいポケモン	Retainer Pokémon
+1017	Ogerpon	Ogerpon	Mask Pokémon	おめんポケモン	Mask Pokémon
+1018	Archaludon	Archaludon	Alloy Pokémon	ごうきんポケモン	Alloy Pokémon
+1019	Hydrapple	Hydrapple	Apple Hydra Pokémon	りんごオロチポケモン	Apple Serpent Pokémon
+1020	Gouging Fire	Gouging Fire	Paradox Pokémon	パラドックスポケモン	Paradox Pokémon
+1021	Raging Bolt	Raging Bolt	Paradox Pokémon	パラドックスポケモン	Paradox Pokémon
+1022	Iron Boulder	Iron Boulder	Paradox Pokémon	パラドックスポケモン	Paradox Pokémon
+1023	Iron Crown	Iron Crown	Paradox Pokémon	パラドックスポケモン	Paradox Pokémon
+1024	Terapagos	Terapagos	Tera Pokémon	テラスタルポケモン	Terastal Pokémon
+1025	Pecharunt	Pecharunt	Subjugation Pokémon	しはいポケモン	Subjugation Pokémon
